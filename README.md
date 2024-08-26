@@ -3,11 +3,12 @@
 ![License](https://badgen.net/badge/license/MIT/green)
 ![Tool](https://badgen.net/badge/Tool/Orange3/orange?icon)
 
-![logo](https://github.com/user-attachments/assets/c988122e-17a0-4484-9310-6576bc848087)
-
 # _Disclaimer_
 
 This project might not have precise data on model performance and accuracy, but it can give a general overview of machine learning models using Orange and some Python libraries.
+
+# Analysis
+https://drive.google.com/drive/folders/1BUBQCnkgwcWpBDI7zol2hwN2HftznDDr?usp=sharing
 
 # Carbon Emission Predictor (CO₂)
 
