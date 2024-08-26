@@ -1,0 +1,7 @@
+Provide the following information to estimate emissions:
+            
+1. Select manufacturing equipment/machinery.
+2. Enter quantity.
+3. Fuel consumption rate is automatically assigned based on equipment selected (litres/h).
+4. Enter hours of operation (h).
+5. Carbon emission factor is automatically assigned based on equipment selected (kgCO2/kg).

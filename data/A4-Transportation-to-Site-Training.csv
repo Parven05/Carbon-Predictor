@@ -1,0 +1,1001 @@
+No,Materials,Mass_used,Distance_traveled,Fuel_consumption_rate,Carbon_emission_factor
+1,Stone wool,250,200,0.4,3
+2,Stone wool,250,200,0.4,3
+3,Stone wool,250,200,0.4,3
+4,Stone wool,250,200,0.4,3
+5,Stone wool,250,200,0.4,3
+6,Stone wool,250,200,0.4,3
+7,Stone wool,250,200,0.4,3
+8,Stone wool,250,200,0.4,3
+9,Stone wool,250,200,0.4,3
+10,Stone wool,250,200,0.4,3
+11,AAC blocks,400,300,0.4,0.6
+12,AAC blocks,400,300,0.4,0.6
+13,AAC blocks,400,300,0.4,0.6
+14,AAC blocks,400,300,0.4,0.6
+15,AAC blocks,400,300,0.4,0.6
+16,AAC blocks,400,300,0.4,0.6
+17,AAC blocks,400,300,0.4,0.6
+18,AAC blocks,400,300,0.4,0.6
+19,AAC blocks,400,300,0.4,0.6
+20,AAC blocks,400,300,0.4,0.6
+21,UPVC,200,250,0.4,7
+22,UPVC,200,250,0.4,7
+23,UPVC,200,250,0.4,7
+24,UPVC,200,250,0.4,7
+25,UPVC,200,250,0.4,7
+26,UPVC,200,250,0.4,7
+27,UPVC,200,250,0.4,7
+28,UPVC,200,250,0.4,7
+29,UPVC,200,250,0.4,7
+30,UPVC,200,250,0.4,7
+31,GRC,300,200,0.4,5
+32,GRC,300,200,0.4,5
+33,GRC,300,200,0.4,5
+34,GRC,300,200,0.4,5
+35,GRC,300,200,0.4,5
+36,GRC,300,200,0.4,5
+37,GRC,300,200,0.4,5
+38,GRC,300,200,0.4,5
+39,GRC,300,200,0.4,5
+40,GRC,300,200,0.4,5
+41,Resins,150,200,0.4,7.5
+42,Resins,150,200,0.4,7.5
+43,Resins,150,200,0.4,7.5
+44,Resins,150,200,0.4,7.5
+45,Resins,150,200,0.4,7.5
+46,Resins,150,200,0.4,7.5
+47,Resins,150,200,0.4,7.5
+48,Resins,150,200,0.4,7.5
+49,Resins,150,200,0.4,7.5
+50,Resins,150,200,0.4,7.5
+51,Polycarbonate,100,180,0.4,7
+52,Polycarbonate,100,180,0.4,7
+53,Polycarbonate,100,180,0.4,7
+54,Polycarbonate,100,180,0.4,7
+55,Polycarbonate,100,180,0.4,7
+56,Polycarbonate,100,180,0.4,7
+57,Polycarbonate,100,180,0.4,7
+58,Polycarbonate,100,180,0.4,7
+59,Polycarbonate,100,180,0.4,7
+60,Polycarbonate,100,180,0.4,7
+61,Acrylic,150,220,0.4,6.5
+62,Acrylic,150,220,0.4,6.5
+63,Acrylic,150,220,0.4,6.5
+64,Acrylic,150,220,0.4,6.5
+65,Acrylic,150,220,0.4,6.5
+66,Acrylic,150,220,0.4,6.5
+67,Acrylic,150,220,0.4,6.5
+68,Acrylic,150,220,0.4,6.5
+69,Acrylic,150,220,0.4,6.5
+70,Acrylic,150,220,0.4,6.5
+71,FRP,200,240,0.4,6
+72,FRP,200,240,0.4,6
+73,FRP,200,240,0.4,6
+74,FRP,200,240,0.4,6
+75,FRP,200,240,0.4,6
+76,FRP,200,240,0.4,6
+77,FRP,200,240,0.4,6
+78,FRP,200,240,0.4,6
+79,FRP,200,240,0.4,6
+80,FRP,200,240,0.4,6
+81,Cement board,250,180,0.4,0.7
+82,Cement board,250,180,0.4,0.7
+83,Cement board,250,180,0.4,0.7
+84,Cement board,250,180,0.4,0.7
+85,Cement board,250,180,0.4,0.7
+86,Cement board,250,180,0.4,0.7
+87,Cement board,250,180,0.4,0.7
+88,Cement board,250,180,0.4,0.7
+89,Cement board,250,180,0.4,0.7
+90,Cement board,250,180,0.4,0.7
+91,Steel studs,200,160,0.4,1.8
+92,Steel studs,200,160,0.4,1.8
+93,Steel studs,200,160,0.4,1.8
+94,Steel studs,200,160,0.4,1.8
+95,Steel studs,200,160,0.4,1.8
+96,Steel studs,200,160,0.4,1.8
+97,Steel studs,200,160,0.4,1.8
+98,Steel studs,200,160,0.4,1.8
+99,Steel studs,200,160,0.4,1.8
+100,Steel studs,200,160,0.4,1.8
+101,Aluminum studs,150,180,0.4,11
+102,Aluminum studs,150,180,0.4,11
+103,Aluminum studs,150,180,0.4,11
+104,Aluminum studs,150,180,0.4,11
+105,Aluminum studs,150,180,0.4,11
+106,Aluminum studs,150,180,0.4,11
+107,Aluminum studs,150,180,0.4,11
+108,Aluminum studs,150,180,0.4,11
+109,Aluminum studs,150,180,0.4,11
+110,Aluminum studs,150,180,0.4,11
+111,Metal studs,180,200,0.4,2.5
+112,Metal studs,180,200,0.4,2.5
+113,Metal studs,180,200,0.4,2.5
+114,Metal studs,180,200,0.4,2.5
+115,Metal studs,180,200,0.4,2.5
+116,Metal studs,180,200,0.4,2.5
+117,Metal studs,180,200,0.4,2.5
+118,Metal studs,180,200,0.4,2.5
+119,Metal studs,180,200,0.4,2.5
+120,Metal studs,180,200,0.4,2.5
+121,Galvanized steel,250,220,0.4,1.8
+122,Galvanized steel,250,220,0.4,1.8
+123,Galvanized steel,250,220,0.4,1.8
+124,Galvanized steel,250,220,0.4,1.8
+125,Galvanized steel,250,220,0.4,1.8
+126,Galvanized steel,250,220,0.4,1.8
+127,Galvanized steel,250,220,0.4,1.8
+128,Galvanized steel,250,220,0.4,1.8
+129,Galvanized steel,250,220,0.4,1.8
+130,Galvanized steel,250,220,0.4,1.8
+131,Stainless steel,200,180,0.4,4
+132,Stainless steel,200,180,0.4,4
+133,Stainless steel,200,180,0.4,4
+134,Stainless steel,200,180,0.4,4
+135,Stainless steel,200,180,0.4,4
+136,Stainless steel,200,180,0.4,4
+137,Stainless steel,200,180,0.4,4
+138,Stainless steel,200,180,0.4,4
+139,Stainless steel,200,180,0.4,4
+140,Stainless steel,200,180,0.4,4
+141,Corrugated iron,300,160,0.4,1.5
+142,Corrugated iron,300,160,0.4,1.5
+143,Corrugated iron,300,160,0.4,1.5
+144,Corrugated iron,300,160,0.4,1.5
+145,Corrugated iron,300,160,0.4,1.5
+146,Corrugated iron,300,160,0.4,1.5
+147,Corrugated iron,300,160,0.4,1.5
+148,Corrugated iron,300,160,0.4,1.5
+149,Corrugated iron,300,160,0.4,1.5
+150,Corrugated iron,300,160,0.4,1.5
+151,Metal roofing,280,200,0.4,2
+152,Metal roofing,280,200,0.4,2
+153,Metal roofing,280,200,0.4,2
+154,Metal roofing,280,200,0.4,2
+155,Metal roofing,280,200,0.4,2
+156,Metal roofing,280,200,0.4,2
+157,Metal roofing,280,200,0.4,2
+158,Metal roofing,280,200,0.4,2
+159,Metal roofing,280,200,0.4,2
+160,Metal roofing,280,200,0.4,2
+161,Metal siding,200,180,0.4,2.5
+162,Metal siding,200,180,0.4,2.5
+163,Metal siding,200,180,0.4,2.5
+164,Metal siding,200,180,0.4,2.5
+165,Metal siding,200,180,0.4,2.5
+166,Metal siding,200,180,0.4,2.5
+167,Metal siding,200,180,0.4,2.5
+168,Metal siding,200,180,0.4,2.5
+169,Metal siding,200,180,0.4,2.5
+170,Metal siding,200,180,0.4,2.5
+171,Aluminum siding,250,200,0.4,11
+172,Aluminum siding,250,200,0.4,11
+173,Aluminum siding,250,200,0.4,11
+174,Aluminum siding,250,200,0.4,11
+175,Aluminum siding,250,200,0.4,11
+176,Aluminum siding,250,200,0.4,11
+177,Aluminum siding,250,200,0.4,11
+178,Aluminum siding,250,200,0.4,11
+179,Aluminum siding,250,200,0.4,11
+180,Aluminum siding,250,200,0.4,11
+181,Glass wool,200,150,0.4,2
+182,Glass wool,200,150,0.4,2
+183,Glass wool,200,150,0.4,2
+184,Glass wool,200,150,0.4,2
+185,Glass wool,200,150,0.4,2
+186,Glass wool,200,150,0.4,2
+187,Glass wool,200,150,0.4,2
+188,Glass wool,200,150,0.4,2
+189,Glass wool,200,150,0.4,2
+190,Glass wool,200,150,0.4,2
+191,Reinforced concrete,1500,250,0.4,0.3
+192,Reinforced concrete,1500,250,0.4,0.3
+193,Reinforced concrete,1500,250,0.4,0.3
+194,Reinforced concrete,1500,250,0.4,0.3
+195,Reinforced concrete,1500,250,0.4,0.3
+196,Reinforced concrete,1500,250,0.4,0.3
+197,Reinforced concrete,1500,250,0.4,0.3
+198,Reinforced concrete,1500,250,0.4,0.3
+199,Reinforced concrete,1500,250,0.4,0.3
+200,Reinforced concrete,1500,250,0.4,0.3
+201,Treated wood,500,180,0.4,0.3
+202,Treated wood,500,180,0.4,0.3
+203,Treated wood,500,180,0.4,0.3
+204,Treated wood,500,180,0.4,0.3
+205,Treated wood,500,180,0.4,0.3
+206,Treated wood,500,180,0.4,0.3
+207,Treated wood,500,180,0.4,0.3
+208,Treated wood,500,180,0.4,0.3
+209,Treated wood,500,180,0.4,0.3
+210,Treated wood,500,180,0.4,0.3
+211,Particle board,250,120,0.4,0.5
+212,Particle board,250,120,0.4,0.5
+213,Particle board,250,120,0.4,0.5
+214,Particle board,250,120,0.4,0.5
+215,Particle board,250,120,0.4,0.5
+216,Particle board,250,120,0.4,0.5
+217,Particle board,250,120,0.4,0.5
+218,Particle board,250,120,0.4,0.5
+219,Particle board,250,120,0.4,0.5
+220,Particle board,250,120,0.4,0.5
+221,Chipboard,300,150,0.4,0.5
+222,Chipboard,300,150,0.4,0.5
+223,Chipboard,300,150,0.4,0.5
+224,Chipboard,300,150,0.4,0.5
+225,Chipboard,300,150,0.4,0.5
+226,Chipboard,300,150,0.4,0.5
+227,Chipboard,300,150,0.4,0.5
+228,Chipboard,300,150,0.4,0.5
+229,Chipboard,300,150,0.4,0.5
+230,Chipboard,300,150,0.4,0.5
+231,Fiberboard,280,200,0.4,0.6
+232,Fiberboard,280,200,0.4,0.6
+233,Fiberboard,280,200,0.4,0.6
+234,Fiberboard,280,200,0.4,0.6
+235,Fiberboard,280,200,0.4,0.6
+236,Fiberboard,280,200,0.4,0.6
+237,Fiberboard,280,200,0.4,0.6
+238,Fiberboard,280,200,0.4,0.6
+239,Fiberboard,280,200,0.4,0.6
+240,Fiberboard,280,200,0.4,0.6
+241,Anti-Slip Coating,50,20,0.4,3
+242,Anti-Slip Coating,50,20,0.4,3
+243,Anti-Slip Coating,50,20,0.4,3
+244,Anti-Slip Coating,50,20,0.4,3
+245,Anti-Slip Coating,50,20,0.4,3
+246,Anti-Slip Coating,50,20,0.4,3
+247,Anti-Slip Coating,50,20,0.4,3
+248,Anti-Slip Coating,50,20,0.4,3
+249,Anti-Slip Coating,50,20,0.4,3
+250,Anti-Slip Coating,50,20,0.4,3
+251,Concrete Sealer,100,30,0.4,0.3
+252,Concrete Sealer,100,30,0.4,0.3
+253,Concrete Sealer,100,30,0.4,0.3
+254,Concrete Sealer,100,30,0.4,0.3
+255,Concrete Sealer,100,30,0.4,0.3
+256,Concrete Sealer,100,30,0.4,0.3
+257,Concrete Sealer,100,30,0.4,0.3
+258,Concrete Sealer,100,30,0.4,0.3
+259,Concrete Sealer,100,30,0.4,0.3
+260,Concrete Sealer,100,30,0.4,0.3
+261,Wood Preservative,80,25,0.4,2.5
+262,Wood Preservative,80,25,0.4,2.5
+263,Wood Preservative,80,25,0.4,2.5
+264,Wood Preservative,80,25,0.4,2.5
+265,Wood Preservative,80,25,0.4,2.5
+266,Wood Preservative,80,25,0.4,2.5
+267,Wood Preservative,80,25,0.4,2.5
+268,Wood Preservative,80,25,0.4,2.5
+269,Wood Preservative,80,25,0.4,2.5
+270,Wood Preservative,80,25,0.4,2.5
+271,Acoustic Panels,200,60,0.4,0.4
+272,Acoustic Panels,200,60,0.4,0.4
+273,Acoustic Panels,200,60,0.4,0.4
+274,Acoustic Panels,200,60,0.4,0.4
+275,Acoustic Panels,200,60,0.4,0.4
+276,Acoustic Panels,200,60,0.4,0.4
+277,Acoustic Panels,200,60,0.4,0.4
+278,Acoustic Panels,200,60,0.4,0.4
+279,Acoustic Panels,200,60,0.4,0.4
+280,Acoustic Panels,200,60,0.4,0.4
+281,Soundproofing Foam,150,50,0.4,0.6
+282,Soundproofing Foam,150,50,0.4,0.6
+283,Soundproofing Foam,150,50,0.4,0.6
+284,Soundproofing Foam,150,50,0.4,0.6
+285,Soundproofing Foam,150,50,0.4,0.6
+286,Soundproofing Foam,150,50,0.4,0.6
+287,Soundproofing Foam,150,50,0.4,0.6
+288,Soundproofing Foam,150,50,0.4,0.6
+289,Soundproofing Foam,150,50,0.4,0.6
+290,Soundproofing Foam,150,50,0.4,0.6
+291,Fireproofing Spray,120,40,0.4,0.7
+292,Fireproofing Spray,120,40,0.4,0.7
+293,Fireproofing Spray,120,40,0.4,0.7
+294,Fireproofing Spray,120,40,0.4,0.7
+295,Fireproofing Spray,120,40,0.4,0.7
+296,Fireproofing Spray,120,40,0.4,0.7
+297,Fireproofing Spray,120,40,0.4,0.7
+298,Fireproofing Spray,120,40,0.4,0.7
+299,Fireproofing Spray,120,40,0.4,0.7
+300,Fireproofing Spray,120,40,0.4,0.7
+301,Pipe Insulation,100,30,0.4,0.6
+302,Pipe Insulation,100,30,0.4,0.6
+303,Pipe Insulation,100,30,0.4,0.6
+304,Pipe Insulation,100,30,0.4,0.6
+305,Pipe Insulation,100,30,0.4,0.6
+306,Pipe Insulation,100,30,0.4,0.6
+307,Pipe Insulation,100,30,0.4,0.6
+308,Pipe Insulation,100,30,0.4,0.6
+309,Pipe Insulation,100,30,0.4,0.6
+310,Pipe Insulation,100,30,0.4,0.6
+311,Duct Tape,50,15,0.4,0.3
+312,Duct Tape,50,15,0.4,0.3
+313,Duct Tape,50,15,0.4,0.3
+314,Duct Tape,50,15,0.4,0.3
+315,Duct Tape,50,15,0.4,0.3
+316,Duct Tape,50,15,0.4,0.3
+317,Duct Tape,50,15,0.4,0.3
+318,Duct Tape,50,15,0.4,0.3
+319,Duct Tape,50,15,0.4,0.3
+320,Duct Tape,50,15,0.4,0.3
+321,Veneer,70,20,0.4,0.5
+322,Veneer,70,20,0.4,0.5
+323,Veneer,70,20,0.4,0.5
+324,Veneer,70,20,0.4,0.5
+325,Veneer,70,20,0.4,0.5
+326,Veneer,70,20,0.4,0.5
+327,Veneer,70,20,0.4,0.5
+328,Veneer,70,20,0.4,0.5
+329,Veneer,70,20,0.4,0.5
+330,Veneer,70,20,0.4,0.5
+331,Resilient Flooring,150,40,0.4,0.6
+332,Resilient Flooring,150,40,0.4,0.6
+333,Resilient Flooring,150,40,0.4,0.6
+334,Resilient Flooring,150,40,0.4,0.6
+335,Resilient Flooring,150,40,0.4,0.6
+336,Resilient Flooring,150,40,0.4,0.6
+337,Resilient Flooring,150,40,0.4,0.6
+338,Resilient Flooring,150,40,0.4,0.6
+339,Resilient Flooring,150,40,0.4,0.6
+340,Resilient Flooring,150,40,0.4,0.6
+341,Drywall,200,50,0.4,0.7
+342,Drywall,200,50,0.4,0.7
+343,Drywall,200,50,0.4,0.7
+344,Drywall,200,50,0.4,0.7
+345,Drywall,200,50,0.4,0.7
+346,Drywall,200,50,0.4,0.7
+347,Drywall,200,50,0.4,0.7
+348,Drywall,200,50,0.4,0.7
+349,Drywall,200,50,0.4,0.7
+350,Drywall,200,50,0.4,0.7
+351,Joint Compound,100,30,0.4,0.3
+352,Joint Compound,100,30,0.4,0.3
+353,Joint Compound,100,30,0.4,0.3
+354,Joint Compound,100,30,0.4,0.3
+355,Joint Compound,100,30,0.4,0.3
+356,Joint Compound,100,30,0.4,0.3
+357,Joint Compound,100,30,0.4,0.3
+358,Joint Compound,100,30,0.4,0.3
+359,Joint Compound,100,30,0.4,0.3
+360,Joint Compound,100,30,0.4,0.3
+361,Wallpaper,80,25,0.4,0.5
+362,Wallpaper,80,25,0.4,0.5
+363,Wallpaper,80,25,0.4,0.5
+364,Wallpaper,80,25,0.4,0.5
+365,Wallpaper,80,25,0.4,0.5
+366,Wallpaper,80,25,0.4,0.5
+367,Wallpaper,80,25,0.4,0.5
+368,Wallpaper,80,25,0.4,0.5
+369,Wallpaper,80,25,0.4,0.5
+370,Wallpaper,80,25,0.4,0.5
+371,Baseboard,50,15,0.4,0.4
+372,Baseboard,50,15,0.4,0.4
+373,Baseboard,50,15,0.4,0.4
+374,Baseboard,50,15,0.4,0.4
+375,Baseboard,50,15,0.4,0.4
+376,Baseboard,50,15,0.4,0.4
+377,Baseboard,50,15,0.4,0.4
+378,Baseboard,50,15,0.4,0.4
+379,Baseboard,50,15,0.4,0.4
+380,Baseboard,50,15,0.4,0.4
+381,Crown Molding,70,20,0.4,0.6
+382,Crown Molding,70,20,0.4,0.6
+383,Crown Molding,70,20,0.4,0.6
+384,Crown Molding,70,20,0.4,0.6
+385,Crown Molding,70,20,0.4,0.6
+386,Crown Molding,70,20,0.4,0.6
+387,Crown Molding,70,20,0.4,0.6
+388,Crown Molding,70,20,0.4,0.6
+389,Crown Molding,70,20,0.4,0.6
+390,Crown Molding,70,20,0.4,0.6
+391,Trim,60,20,0.4,0.4
+392,Trim,60,20,0.4,0.4
+393,Trim,60,20,0.4,0.4
+394,Trim,60,20,0.4,0.4
+395,Trim,60,20,0.4,0.4
+396,Trim,60,20,0.4,0.4
+397,Trim,60,20,0.4,0.4
+398,Trim,60,20,0.4,0.4
+399,Trim,60,20,0.4,0.4
+400,Trim,60,20,0.4,0.4
+401,Wainscoting,90,25,0.4,0.7
+402,Wainscoting,90,25,0.4,0.7
+403,Wainscoting,90,25,0.4,0.7
+404,Wainscoting,90,25,0.4,0.7
+405,Wainscoting,90,25,0.4,0.7
+406,Wainscoting,90,25,0.4,0.7
+407,Wainscoting,90,25,0.4,0.7
+408,Wainscoting,90,25,0.4,0.7
+409,Wainscoting,90,25,0.4,0.7
+410,Wainscoting,90,25,0.4,0.7
+411,Door,200,60,0.4,0.8
+412,Door,200,60,0.4,0.8
+413,Door,200,60,0.4,0.8
+414,Door,200,60,0.4,0.8
+415,Door,200,60,0.4,0.8
+416,Door,200,60,0.4,0.8
+417,Door,200,60,0.4,0.8
+418,Door,200,60,0.4,0.8
+419,Door,200,60,0.4,0.8
+420,Door,200,60,0.4,0.8
+421,Window Frame,120,40,0.4,0.7
+422,Window Frame,120,40,0.4,0.7
+423,Window Frame,120,40,0.4,0.7
+424,Window Frame,120,40,0.4,0.7
+425,Window Frame,120,40,0.4,0.7
+426,Window Frame,120,40,0.4,0.7
+427,Window Frame,120,40,0.4,0.7
+428,Window Frame,120,40,0.4,0.7
+429,Window Frame,120,40,0.4,0.7
+430,Window Frame,120,40,0.4,0.7
+431,Door Frame,100,30,0.4,0.6
+432,Door Frame,100,30,0.4,0.6
+433,Door Frame,100,30,0.4,0.6
+434,Door Frame,100,30,0.4,0.6
+435,Door Frame,100,30,0.4,0.6
+436,Door Frame,100,30,0.4,0.6
+437,Door Frame,100,30,0.4,0.6
+438,Door Frame,100,30,0.4,0.6
+439,Door Frame,100,30,0.4,0.6
+440,Door Frame,100,30,0.4,0.6
+441,Sill,50,15,0.4,0.3
+442,Sill,50,15,0.4,0.3
+443,Sill,50,15,0.4,0.3
+444,Sill,50,15,0.4,0.3
+445,Sill,50,15,0.4,0.3
+446,Sill,50,15,0.4,0.3
+447,Sill,50,15,0.4,0.3
+448,Sill,50,15,0.4,0.3
+449,Sill,50,15,0.4,0.3
+450,Sill,50,15,0.4,0.3
+451,Staircase,250,70,0.4,1
+452,Staircase,250,70,0.4,1
+453,Staircase,250,70,0.4,1
+454,Staircase,250,70,0.4,1
+455,Staircase,250,70,0.4,1
+456,Staircase,250,70,0.4,1
+457,Staircase,250,70,0.4,1
+458,Staircase,250,70,0.4,1
+459,Staircase,250,70,0.4,1
+460,Staircase,250,70,0.4,1
+461,Handrail,80,25,0.4,0.5
+462,Handrail,80,25,0.4,0.5
+463,Handrail,80,25,0.4,0.5
+464,Handrail,80,25,0.4,0.5
+465,Handrail,80,25,0.4,0.5
+466,Handrail,80,25,0.4,0.5
+467,Handrail,80,25,0.4,0.5
+468,Handrail,80,25,0.4,0.5
+469,Handrail,80,25,0.4,0.5
+470,Handrail,80,25,0.4,0.5
+471,Balusters,100,30,0.4,0.6
+472,Balusters,100,30,0.4,0.6
+473,Balusters,100,30,0.4,0.6
+474,Balusters,100,30,0.4,0.6
+475,Balusters,100,30,0.4,0.6
+476,Balusters,100,30,0.4,0.6
+477,Balusters,100,30,0.4,0.6
+478,Balusters,100,30,0.4,0.6
+479,Balusters,100,30,0.4,0.6
+480,Balusters,100,30,0.4,0.6
+481,Decking,150,40,0.4,0.7
+482,Decking,150,40,0.4,0.7
+483,Decking,150,40,0.4,0.7
+484,Decking,150,40,0.4,0.7
+485,Decking,150,40,0.4,0.7
+486,Decking,150,40,0.4,0.7
+487,Decking,150,40,0.4,0.7
+488,Decking,150,40,0.4,0.7
+489,Decking,150,40,0.4,0.7
+490,Decking,150,40,0.4,0.7
+491,Railing,100,30,0.4,0.6
+492,Railing,100,30,0.4,0.6
+493,Railing,100,30,0.4,0.6
+494,Railing,100,30,0.4,0.6
+495,Railing,100,30,0.4,0.6
+496,Railing,100,30,0.4,0.6
+497,Railing,100,30,0.4,0.6
+498,Railing,100,30,0.4,0.6
+499,Railing,100,30,0.4,0.6
+500,Railing,100,30,0.4,0.6
+501,Fence,200,50,0.4,0.8
+502,Fence,200,50,0.4,0.8
+503,Fence,200,50,0.4,0.8
+504,Fence,200,50,0.4,0.8
+505,Fence,200,50,0.4,0.8
+506,Fence,200,50,0.4,0.8
+507,Fence,200,50,0.4,0.8
+508,Fence,200,50,0.4,0.8
+509,Fence,200,50,0.4,0.8
+510,Fence,200,50,0.4,0.8
+511,Trellis,80,25,0.4,0.5
+512,Trellis,80,25,0.4,0.5
+513,Trellis,80,25,0.4,0.5
+514,Trellis,80,25,0.4,0.5
+515,Trellis,80,25,0.4,0.5
+516,Trellis,80,25,0.4,0.5
+517,Trellis,80,25,0.4,0.5
+518,Trellis,80,25,0.4,0.5
+519,Trellis,80,25,0.4,0.5
+520,Trellis,80,25,0.4,0.5
+521,Pergola,120,35,0.4,0.7
+522,Pergola,120,35,0.4,0.7
+523,Pergola,120,35,0.4,0.7
+524,Pergola,120,35,0.4,0.7
+525,Pergola,120,35,0.4,0.7
+526,Pergola,120,35,0.4,0.7
+527,Pergola,120,35,0.4,0.7
+528,Pergola,120,35,0.4,0.7
+529,Pergola,120,35,0.4,0.7
+530,Pergola,120,35,0.4,0.7
+531,Shed,300,80,0.4,0.9
+532,Shed,300,80,0.4,0.9
+533,Shed,300,80,0.4,0.9
+534,Shed,300,80,0.4,0.9
+535,Shed,300,80,0.4,0.9
+536,Shed,300,80,0.4,0.9
+537,Shed,300,80,0.4,0.9
+538,Shed,300,80,0.4,0.9
+539,Shed,300,80,0.4,0.9
+540,Shed,300,80,0.4,0.9
+541,Gazebo,250,70,0.4,0.8
+542,Gazebo,250,70,0.4,0.8
+543,Gazebo,250,70,0.4,0.8
+544,Gazebo,250,70,0.4,0.8
+545,Gazebo,250,70,0.4,0.8
+546,Gazebo,250,70,0.4,0.8
+547,Gazebo,250,70,0.4,0.8
+548,Gazebo,250,70,0.4,0.8
+549,Gazebo,250,70,0.4,0.8
+550,Gazebo,250,70,0.4,0.8
+551,Retaining Wall,400,100,0.4,0.7
+552,Retaining Wall,400,100,0.4,0.7
+553,Retaining Wall,400,100,0.4,0.7
+554,Retaining Wall,400,100,0.4,0.7
+555,Retaining Wall,400,100,0.4,0.7
+556,Retaining Wall,400,100,0.4,0.7
+557,Retaining Wall,400,100,0.4,0.7
+558,Retaining Wall,400,100,0.4,0.7
+559,Retaining Wall,400,100,0.4,0.7
+560,Retaining Wall,400,100,0.4,0.7
+561,Flagstone,150,40,0.4,0.6
+562,Flagstone,150,40,0.4,0.6
+563,Flagstone,150,40,0.4,0.6
+564,Flagstone,150,40,0.4,0.6
+565,Flagstone,150,40,0.4,0.6
+566,Flagstone,150,40,0.4,0.6
+567,Flagstone,150,40,0.4,0.6
+568,Flagstone,150,40,0.4,0.6
+569,Flagstone,150,40,0.4,0.6
+570,Flagstone,150,40,0.4,0.6
+571,Cobblestone,180,50,0.4,0.8
+572,Cobblestone,180,50,0.4,0.8
+573,Cobblestone,180,50,0.4,0.8
+574,Cobblestone,180,50,0.4,0.8
+575,Cobblestone,180,50,0.4,0.8
+576,Cobblestone,180,50,0.4,0.8
+577,Cobblestone,180,50,0.4,0.8
+578,Cobblestone,180,50,0.4,0.8
+579,Cobblestone,180,50,0.4,0.8
+580,Cobblestone,180,50,0.4,0.8
+581,Paver,200,60,0.4,0.7
+582,Paver,200,60,0.4,0.7
+583,Paver,200,60,0.4,0.7
+584,Paver,200,60,0.4,0.7
+585,Paver,200,60,0.4,0.7
+586,Paver,200,60,0.4,0.7
+587,Paver,200,60,0.4,0.7
+588,Paver,200,60,0.4,0.7
+589,Paver,200,60,0.4,0.7
+590,Paver,200,60,0.4,0.7
+591,Gravel,300,80,0.4,0.6
+592,Gravel,300,80,0.4,0.6
+593,Gravel,300,80,0.4,0.6
+594,Gravel,300,80,0.4,0.6
+595,Gravel,300,80,0.4,0.6
+596,Gravel,300,80,0.4,0.6
+597,Gravel,300,80,0.4,0.6
+598,Gravel,300,80,0.4,0.6
+599,Gravel,300,80,0.4,0.6
+600,Gravel,300,80,0.4,0.6
+601,Mulch,250,70,0.4,0.5
+602,Mulch,250,70,0.4,0.5
+603,Mulch,250,70,0.4,0.5
+604,Mulch,250,70,0.4,0.5
+605,Mulch,250,70,0.4,0.5
+606,Mulch,250,70,0.4,0.5
+607,Mulch,250,70,0.4,0.5
+608,Mulch,250,70,0.4,0.5
+609,Mulch,250,70,0.4,0.5
+610,Mulch,250,70,0.4,0.5
+611,Concrete Block,350,90,0.4,0.7
+612,Concrete Block,350,90,0.4,0.7
+613,Concrete Block,350,90,0.4,0.7
+614,Concrete Block,350,90,0.4,0.7
+615,Concrete Block,350,90,0.4,0.7
+616,Concrete Block,350,90,0.4,0.7
+617,Concrete Block,350,90,0.4,0.7
+618,Concrete Block,350,90,0.4,0.7
+619,Concrete Block,350,90,0.4,0.7
+620,Concrete Block,350,90,0.4,0.7
+621,Bricks,400,100,0.4,0.6
+622,Bricks,400,100,0.4,0.6
+623,Bricks,400,100,0.4,0.6
+624,Bricks,400,100,0.4,0.6
+625,Bricks,400,100,0.4,0.6
+626,Bricks,400,100,0.4,0.6
+627,Bricks,400,100,0.4,0.6
+628,Bricks,400,100,0.4,0.6
+629,Bricks,400,100,0.4,0.6
+630,Bricks,400,100,0.4,0.6
+631,Sand,200,60,0.4,0.4
+632,Sand,200,60,0.4,0.4
+633,Sand,200,60,0.4,0.4
+634,Sand,200,60,0.4,0.4
+635,Sand,200,60,0.4,0.4
+636,Sand,200,60,0.4,0.4
+637,Sand,200,60,0.4,0.4
+638,Sand,200,60,0.4,0.4
+639,Sand,200,60,0.4,0.4
+640,Sand,200,60,0.4,0.4
+641,Rebar,150,45,0.4,0.8
+642,Rebar,150,45,0.4,0.8
+643,Rebar,150,45,0.4,0.8
+644,Rebar,150,45,0.4,0.8
+645,Rebar,150,45,0.4,0.8
+646,Rebar,150,45,0.4,0.8
+647,Rebar,150,45,0.4,0.8
+648,Rebar,150,45,0.4,0.8
+649,Rebar,150,45,0.4,0.8
+650,Rebar,150,45,0.4,0.8
+651,Concrete Mix,200,55,0.4,0.7
+652,Concrete Mix,200,55,0.4,0.7
+653,Concrete Mix,200,55,0.4,0.7
+654,Concrete Mix,200,55,0.4,0.7
+655,Concrete Mix,200,55,0.4,0.7
+656,Concrete Mix,200,55,0.4,0.7
+657,Concrete Mix,200,55,0.4,0.7
+658,Concrete Mix,200,55,0.4,0.7
+659,Concrete Mix,200,55,0.4,0.7
+660,Concrete Mix,200,55,0.4,0.7
+661,Cement,250,60,0.4,0.8
+662,Cement,250,60,0.4,0.8
+663,Cement,250,60,0.4,0.8
+664,Cement,250,60,0.4,0.8
+665,Cement,250,60,0.4,0.8
+666,Cement,250,60,0.4,0.8
+667,Cement,250,60,0.4,0.8
+668,Cement,250,60,0.4,0.8
+669,Cement,250,60,0.4,0.8
+670,Cement,250,60,0.4,0.8
+671,Masonry Sand,180,50,0.4,0.5
+672,Masonry Sand,180,50,0.4,0.5
+673,Masonry Sand,180,50,0.4,0.5
+674,Masonry Sand,180,50,0.4,0.5
+675,Masonry Sand,180,50,0.4,0.5
+676,Masonry Sand,180,50,0.4,0.5
+677,Masonry Sand,180,50,0.4,0.5
+678,Masonry Sand,180,50,0.4,0.5
+679,Masonry Sand,180,50,0.4,0.5
+680,Masonry Sand,180,50,0.4,0.5
+681,Topsoil,150,40,0.4,0.4
+682,Topsoil,150,40,0.4,0.4
+683,Topsoil,150,40,0.4,0.4
+684,Topsoil,150,40,0.4,0.4
+685,Topsoil,150,40,0.4,0.4
+686,Topsoil,150,40,0.4,0.4
+687,Topsoil,150,40,0.4,0.4
+688,Topsoil,150,40,0.4,0.4
+689,Topsoil,150,40,0.4,0.4
+690,Topsoil,150,40,0.4,0.4
+691,Mulch,200,55,0.4,0.5
+692,Mulch,200,55,0.4,0.5
+693,Mulch,200,55,0.4,0.5
+694,Mulch,200,55,0.4,0.5
+695,Mulch,200,55,0.4,0.5
+696,Mulch,200,55,0.4,0.5
+697,Mulch,200,55,0.4,0.5
+698,Mulch,200,55,0.4,0.5
+699,Mulch,200,55,0.4,0.5
+700,Mulch,200,55,0.4,0.5
+701,Sod,250,70,0.4,0.6
+702,Sod,250,70,0.4,0.6
+703,Sod,250,70,0.4,0.6
+704,Sod,250,70,0.4,0.6
+705,Sod,250,70,0.4,0.6
+706,Sod,250,70,0.4,0.6
+707,Sod,250,70,0.4,0.6
+708,Sod,250,70,0.4,0.6
+709,Sod,250,70,0.4,0.6
+710,Sod,250,70,0.4,0.6
+711,Gravel,300,80,0.4,0.6
+712,Gravel,300,80,0.4,0.6
+713,Gravel,300,80,0.4,0.6
+714,Gravel,300,80,0.4,0.6
+715,Gravel,300,80,0.4,0.6
+716,Gravel,300,80,0.4,0.6
+717,Gravel,300,80,0.4,0.6
+718,Gravel,300,80,0.4,0.6
+719,Gravel,300,80,0.4,0.6
+720,Gravel,300,80,0.4,0.6
+721,Landscape Fabric,100,30,0.4,0.3
+722,Landscape Fabric,100,30,0.4,0.3
+723,Landscape Fabric,100,30,0.4,0.3
+724,Landscape Fabric,100,30,0.4,0.3
+725,Landscape Fabric,100,30,0.4,0.3
+726,Landscape Fabric,100,30,0.4,0.3
+727,Landscape Fabric,100,30,0.4,0.3
+728,Landscape Fabric,100,30,0.4,0.3
+729,Landscape Fabric,100,30,0.4,0.3
+730,Landscape Fabric,100,30,0.4,0.3
+731,Bark,120,35,0.4,0.4
+732,Bark,120,35,0.4,0.4
+733,Bark,120,35,0.4,0.4
+734,Bark,120,35,0.4,0.4
+735,Bark,120,35,0.4,0.4
+736,Bark,120,35,0.4,0.4
+737,Bark,120,35,0.4,0.4
+738,Bark,120,35,0.4,0.4
+739,Bark,120,35,0.4,0.4
+740,Bark,120,35,0.4,0.4
+741,Cobblestone,150,40,0.4,0.6
+742,Cobblestone,150,40,0.4,0.6
+743,Cobblestone,150,40,0.4,0.6
+744,Cobblestone,150,40,0.4,0.6
+745,Cobblestone,150,40,0.4,0.6
+746,Cobblestone,150,40,0.4,0.6
+747,Cobblestone,150,40,0.4,0.6
+748,Cobblestone,150,40,0.4,0.6
+749,Cobblestone,150,40,0.4,0.6
+750,Cobblestone,150,40,0.4,0.6
+751,Paver,180,45,0.4,0.7
+752,Paver,180,45,0.4,0.7
+753,Paver,180,45,0.4,0.7
+754,Paver,180,45,0.4,0.7
+755,Paver,180,45,0.4,0.7
+756,Paver,180,45,0.4,0.7
+757,Paver,180,45,0.4,0.7
+758,Paver,180,45,0.4,0.7
+759,Paver,180,45,0.4,0.7
+760,Paver,180,45,0.4,0.7
+761,Retaining Wall Block,200,50,0.4,0.8
+762,Retaining Wall Block,200,50,0.4,0.8
+763,Retaining Wall Block,200,50,0.4,0.8
+764,Retaining Wall Block,200,50,0.4,0.8
+765,Retaining Wall Block,200,50,0.4,0.8
+766,Retaining Wall Block,200,50,0.4,0.8
+767,Retaining Wall Block,200,50,0.4,0.8
+768,Retaining Wall Block,200,50,0.4,0.8
+769,Retaining Wall Block,200,50,0.4,0.8
+770,Retaining Wall Block,200,50,0.4,0.8
+771,Rubber Matting,200,60,0.4,1.2
+772,Rubber Matting,200,60,0.4,1.2
+773,Rubber Matting,200,60,0.4,1.2
+774,Rubber Matting,200,60,0.4,1.2
+775,Rubber Matting,200,60,0.4,1.2
+776,Rubber Matting,200,60,0.4,1.2
+777,Rubber Matting,200,60,0.4,1.2
+778,Rubber Matting,200,60,0.4,1.2
+779,Rubber Matting,200,60,0.4,1.2
+780,Rubber Matting,200,60,0.4,1.2
+781,Fiberglass Insulation,300,80,0.4,1.0
+782,Fiberglass Insulation,300,80,0.4,1.0
+783,Fiberglass Insulation,300,80,0.4,1.0
+784,Fiberglass Insulation,300,80,0.4,1.0
+785,Fiberglass Insulation,300,80,0.4,1.0
+786,Fiberglass Insulation,300,80,0.4,1.0
+787,Fiberglass Insulation,300,80,0.4,1.0
+788,Fiberglass Insulation,300,80,0.4,1.0
+789,Fiberglass Insulation,300,80,0.4,1.0
+790,Fiberglass Insulation,300,80,0.4,1.0
+791,Stone wool,250,200,0.4,3
+792,Stone wool,250,200,0.4,3
+793,Stone wool,250,200,0.4,3
+794,Stone wool,250,200,0.4,3
+795,Stone wool,250,200,0.4,3
+796,Stone wool,250,200,0.4,3
+797,Stone wool,250,200,0.4,3
+798,Stone wool,250,200,0.4,3
+799,Stone wool,250,200,0.4,3
+800,Stone wool,250,200,0.4,3
+801,AAC blocks,400,300,0.4,0.6
+802,AAC blocks,400,300,0.4,0.6
+803,AAC blocks,400,300,0.4,0.6
+804,AAC blocks,400,300,0.4,0.6
+805,AAC blocks,400,300,0.4,0.6
+806,AAC blocks,400,300,0.4,0.6
+807,AAC blocks,400,300,0.4,0.6
+808,AAC blocks,400,300,0.4,0.6
+809,AAC blocks,400,300,0.4,0.6
+810,AAC blocks,400,300,0.4,0.6
+811,UPVC,200,250,0.4,7
+812,UPVC,200,250,0.4,7
+813,UPVC,200,250,0.4,7
+814,UPVC,200,250,0.4,7
+815,UPVC,200,250,0.4,7
+816,UPVC,200,250,0.4,7
+817,UPVC,200,250,0.4,7
+818,UPVC,200,250,0.4,7
+819,UPVC,200,250,0.4,7
+820,UPVC,200,250,0.4,7
+821,GRC,300,200,0.4,5
+822,GRC,300,200,0.4,5
+823,GRC,300,200,0.4,5
+824,GRC,300,200,0.4,5
+825,GRC,300,200,0.4,5
+826,GRC,300,200,0.4,5
+827,GRC,300,200,0.4,5
+828,GRC,300,200,0.4,5
+829,GRC,300,200,0.4,5
+830,GRC,300,200,0.4,5
+831,Resins,150,200,0.4,7.5
+832,Resins,150,200,0.4,7.5
+833,Resins,150,200,0.4,7.5
+834,Resins,150,200,0.4,7.5
+835,Resins,150,200,0.4,7.5
+836,Resins,150,200,0.4,7.5
+837,Resins,150,200,0.4,7.5
+838,Resins,150,200,0.4,7.5
+839,Resins,150,200,0.4,7.5
+840,Resins,150,200,0.4,7.5
+841,Polycarbonate,100,180,0.4,7
+842,Polycarbonate,100,180,0.4,7
+843,Polycarbonate,100,180,0.4,7
+844,Polycarbonate,100,180,0.4,7
+845,Polycarbonate,100,180,0.4,7
+846,Polycarbonate,100,180,0.4,7
+847,Polycarbonate,100,180,0.4,7
+848,Polycarbonate,100,180,0.4,7
+849,Polycarbonate,100,180,0.4,7
+850,Polycarbonate,100,180,0.4,7
+851,Acrylic,150,220,0.4,6.5
+852,Acrylic,150,220,0.4,6.5
+853,Acrylic,150,220,0.4,6.5
+854,Acrylic,150,220,0.4,6.5
+855,Acrylic,150,220,0.4,6.5
+856,Acrylic,150,220,0.4,6.5
+857,Acrylic,150,220,0.4,6.5
+858,Acrylic,150,220,0.4,6.5
+859,Acrylic,150,220,0.4,6.5
+860,Acrylic,150,220,0.4,6.5
+861,FRP,200,240,0.4,6
+862,FRP,200,240,0.4,6
+863,FRP,200,240,0.4,6
+864,FRP,200,240,0.4,6
+865,FRP,200,240,0.4,6
+866,FRP,200,240,0.4,6
+867,FRP,200,240,0.4,6
+868,FRP,200,240,0.4,6
+869,FRP,200,240,0.4,6
+870,FRP,200,240,0.4,6
+871,Cement board,250,180,0.4,0.7
+872,Cement board,250,180,0.4,0.7
+873,Cement board,250,180,0.4,0.7
+874,Cement board,250,180,0.4,0.7
+875,Cement board,250,180,0.4,0.7
+876,Cement board,250,180,0.4,0.7
+877,Cement board,250,180,0.4,0.7
+878,Cement board,250,180,0.4,0.7
+879,Cement board,250,180,0.4,0.7
+880,Cement board,250,180,0.4,0.7
+881,Steel studs,200,160,0.4,1.8
+882,Steel studs,200,160,0.4,1.8
+883,Steel studs,200,160,0.4,1.8
+884,Steel studs,200,160,0.4,1.8
+885,Steel studs,200,160,0.4,1.8
+886,Steel studs,200,160,0.4,1.8
+887,Steel studs,200,160,0.4,1.8
+888,Steel studs,200,160,0.4,1.8
+889,Steel studs,200,160,0.4,1.8
+890,Steel studs,200,160,0.4,1.8
+891,Aluminum studs,150,180,0.4,11
+892,Aluminum studs,150,180,0.4,11
+893,Aluminum studs,150,180,0.4,11
+894,Aluminum studs,150,180,0.4,11
+895,Aluminum studs,150,180,0.4,11
+896,Aluminum studs,150,180,0.4,11
+897,Aluminum studs,150,180,0.4,11
+898,Aluminum studs,150,180,0.4,11
+899,Aluminum studs,150,180,0.4,11
+900,Aluminum studs,150,180,0.4,11
+901,Metal studs,180,200,0.4,2.5
+902,Metal studs,180,200,0.4,2.5
+903,Metal studs,180,200,0.4,2.5
+904,Metal studs,180,200,0.4,2.5
+905,Metal studs,180,200,0.4,2.5
+906,Metal studs,180,200,0.4,2.5
+907,Metal studs,180,200,0.4,2.5
+908,Metal studs,180,200,0.4,2.5
+909,Metal studs,180,200,0.4,2.5
+910,Metal studs,180,200,0.4,2.5
+911,Galvanized steel,250,220,0.4,1.8
+912,Galvanized steel,250,220,0.4,1.8
+913,Galvanized steel,250,220,0.4,1.8
+914,Galvanized steel,250,220,0.4,1.8
+915,Galvanized steel,250,220,0.4,1.8
+916,Galvanized steel,250,220,0.4,1.8
+917,Galvanized steel,250,220,0.4,1.8
+918,Galvanized steel,250,220,0.4,1.8
+919,Galvanized steel,250,220,0.4,1.8
+920,Galvanized steel,250,220,0.4,1.8
+921,Stainless steel,200,180,0.4,4
+922,Stainless steel,200,180,0.4,4
+923,Stainless steel,200,180,0.4,4
+924,Stainless steel,200,180,0.4,4
+925,Stainless steel,200,180,0.4,4
+926,Stainless steel,200,180,0.4,4
+927,Stainless steel,200,180,0.4,4
+928,Stainless steel,200,180,0.4,4
+929,Stainless steel,200,180,0.4,4
+930,Stainless steel,200,180,0.4,4
+931,Corrugated iron,300,160,0.4,1.5
+932,Corrugated iron,300,160,0.4,1.5
+933,Corrugated iron,300,160,0.4,1.5
+934,Corrugated iron,300,160,0.4,1.5
+935,Corrugated iron,300,160,0.4,1.5
+936,Corrugated iron,300,160,0.4,1.5
+937,Corrugated iron,300,160,0.4,1.5
+938,Corrugated iron,300,160,0.4,1.5
+939,Corrugated iron,300,160,0.4,1.5
+940,Corrugated iron,300,160,0.4,1.5
+941,Metal roofing,280,200,0.4,2
+942,Metal roofing,280,200,0.4,2
+943,Metal roofing,280,200,0.4,2
+944,Metal roofing,280,200,0.4,2
+945,Metal roofing,280,200,0.4,2
+946,Metal roofing,280,200,0.4,2
+947,Metal roofing,280,200,0.4,2
+948,Metal roofing,280,200,0.4,2
+949,Metal roofing,280,200,0.4,2
+950,Metal roofing,280,200,0.4,2
+951,Metal siding,200,180,0.4,2.5
+952,Metal siding,200,180,0.4,2.5
+953,Metal siding,200,180,0.4,2.5
+954,Metal siding,200,180,0.4,2.5
+955,Metal siding,200,180,0.4,2.5
+956,Metal siding,200,180,0.4,2.5
+957,Metal siding,200,180,0.4,2.5
+958,Metal siding,200,180,0.4,2.5
+959,Metal siding,200,180,0.4,2.5
+960,Metal siding,200,180,0.4,2.5
+961,Aluminum siding,250,200,0.4,11
+962,Aluminum siding,250,200,0.4,11
+963,Aluminum siding,250,200,0.4,11
+964,Aluminum siding,250,200,0.4,11
+965,Aluminum siding,250,200,0.4,11
+966,Aluminum siding,250,200,0.4,11
+967,Aluminum siding,250,200,0.4,11
+968,Aluminum siding,250,200,0.4,11
+969,Aluminum siding,250,200,0.4,11
+970,Aluminum siding,250,200,0.4,11
+971,Glass wool,200,150,0.4,2
+972,Glass wool,200,150,0.4,2
+973,Glass wool,200,150,0.4,2
+974,Glass wool,200,150,0.4,2
+975,Glass wool,200,150,0.4,2
+976,Glass wool,200,150,0.4,2
+977,Glass wool,200,150,0.4,2
+978,Glass wool,200,150,0.4,2
+979,Glass wool,200,150,0.4,2
+980,Glass wool,200,150,0.4,2
+981,Reinforced concrete,1500,250,0.4,0.3
+982,Reinforced concrete,1500,250,0.4,0.3
+983,Reinforced concrete,1500,250,0.4,0.3
+984,Reinforced concrete,1500,250,0.4,0.3
+985,Reinforced concrete,1500,250,0.4,0.3
+986,Reinforced concrete,1500,250,0.4,0.3
+987,Reinforced concrete,1500,250,0.4,0.3
+988,Reinforced concrete,1500,250,0.4,0.3
+989,Reinforced concrete,1500,250,0.4,0.3
+990,Reinforced concrete,1500,250,0.4,0.3
+991,Treated wood,500,180,0.4,0.3
+992,Treated wood,500,180,0.4,0.3
+993,Treated wood,500,180,0.4,0.3
+994,Treated wood,500,180,0.4,0.3
+995,Treated wood,500,180,0.4,0.3
+996,Treated wood,500,180,0.4,0.3
+997,Treated wood,500,180,0.4,0.3
+998,Treated wood,500,180,0.4,0.3
+999,Treated wood,500,180,0.4,0.3
+1000,Treated wood,500,180,0.4,0.3

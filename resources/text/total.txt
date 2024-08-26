@@ -1,0 +1,7 @@
+Provide the following information to estimate emissions:
+
+1. Upro, represents total carbon emission of production stage.
+2. Uttf, represents total carbon emission of transportation to factory stage.
+3. Umat, represents total carbon emission of manufacturing stage.
+4. Utts, represents total carbon emission of transportation to site stage.
+5. Ucon, represents total carbon emission of construction stage.

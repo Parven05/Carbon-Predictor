@@ -1,0 +1,1000 @@
+No,Manufacturing_equipment,Quantity,Fuel_consumption_rate,Hours_of_operation,Carbon_emission_factor
+1,CNC Milling Machine,10,15,2000,0.5
+2,CNC Milling Machine,12,14,2200,0.5
+3,CNC Milling Machine,8,16,1800,0.5
+4,CNC Milling Machine,9,15,2500,0.5
+5,CNC Milling Machine,11,14,2100,0.5
+6,CNC Milling Machine,13,16,1900,0.5
+7,CNC Milling Machine,10,15,2400,0.5
+8,CNC Milling Machine,12,14,2300,0.5
+9,CNC Milling Machine,8,16,2000,0.5
+10,CNC Milling Machine,9,15,2200,0.5
+11,CNC Milling Machine,11,14,2100,0.5
+12,CNC Lathe,12,12,2000,0.5
+13,CNC Lathe,10,11,2200,0.5
+14,CNC Lathe,14,13,1800,0.5
+15,CNC Lathe,8,12,2500,0.5
+16,CNC Lathe,15,11,2100,0.5
+17,CNC Lathe,10,13,1900,0.5
+18,CNC Lathe,12,12,2400,0.5
+19,CNC Lathe,9,11,2300,0.5
+20,CNC Lathe,13,13,2000,0.5
+21,CNC Lathe,11,12,2200,0.5
+22,Injection Molding Machine,8,20,3000,0.5
+23,Injection Molding Machine,9,21,3200,0.5
+24,Injection Molding Machine,7,19,2800,0.5
+25,Injection Molding Machine,10,20,3100,0.5
+26,Injection Molding Machine,6,21,2900,0.5
+27,Injection Molding Machine,8,19,3000,0.5
+28,Injection Molding Machine,9,20,3200,0.5
+29,Injection Molding Machine,7,21,2800,0.5
+30,Injection Molding Machine,10,19,3100,0.5
+31,Injection Molding Machine,6,20,2900,0.5
+32,3D Printer,15,5,2500,0.5
+33,3D Printer,12,6,2600,0.5
+34,3D Printer,18,5,2400,0.5
+35,3D Printer,14,6,2700,0.5
+36,3D Printer,16,5,2500,0.5
+37,3D Printer,13,6,2600,0.5
+38,3D Printer,17,5,2400,0.5
+39,3D Printer,15,6,2700,0.5
+40,3D Printer,12,5,2500,0.5
+41,3D Printer,18,6,2600,0.5
+42,Hydraulic Press,6,10,1500,0.5
+43,Hydraulic Press,5,11,1600,0.5
+44,Hydraulic Press,7,9,1400,0.5
+45,Hydraulic Press,6,10,1500,0.5
+46,Hydraulic Press,8,11,1600,0.5
+47,Hydraulic Press,5,9,1400,0.5
+48,Hydraulic Press,7,10,1500,0.5
+49,Hydraulic Press,6,11,1600,0.5
+50,Hydraulic Press,8,9,1400,0.5
+51,Hydraulic Press,5,10,1500,0.5
+52,Laser Cutter,10,8,2000,0.5
+53,Laser Cutter,12,9,2100,0.5
+54,Laser Cutter,8,7,1900,0.5
+55,Laser Cutter,9,8,2000,0.5
+56,Laser Cutter,11,9,2100,0.5
+57,Laser Cutter,10,7,1900,0.5
+58,Laser Cutter,12,8,2000,0.5
+59,Laser Cutter,8,9,2100,0.5
+60,Laser Cutter,9,7,1900,0.5
+61,Laser Cutter,11,8,2000,0.5
+62,Welding Machine,20,7,1000,0.5
+63,Welding Machine,18,6,1200,0.5
+64,Welding Machine,22,8,900,0.5
+65,Welding Machine,19,7,1000,0.5
+66,Welding Machine,21,6,1100,0.5
+67,Welding Machine,20,8,1200,0.5
+68,Welding Machine,18,7,900,0.5
+69,Welding Machine,22,6,1000,0.5
+70,Welding Machine,19,8,1100,0.5
+71,Welding Machine,21,7,1200,0.5
+72,Grinding Machine,12,6,2500,0.5
+73,Grinding Machine,14,7,2600,0.5
+74,Grinding Machine,10,5,2400,0.5
+75,Grinding Machine,13,6,2500,0.5
+76,Grinding Machine,12,7,2600,0.5
+77,Grinding Machine,14,5,2400,0.5
+78,Grinding Machine,10,6,2500,0.5
+79,Grinding Machine,13,7,2600,0.5
+80,Grinding Machine,12,5,2400,0.5
+81,Grinding Machine,14,6,2500,0.5
+82,Band Saw,18,3,1500,0.5
+83,Band Saw,16,4,1600,0.5
+84,Band Saw,20,2,1400,0.5
+85,Band Saw,17,3,1500,0.5
+86,Band Saw,19,4,1600,0.5
+87,Band Saw,18,2,1400,0.5
+88,Band Saw,16,3,1500,0.5
+89,Band Saw,20,4,1600,0.5
+90,Band Saw,17,2,1400,0.5
+91,Band Saw,19,3,1500,0.5
+92,Drill Press,25,2,1200,0.5
+93,Drill Press,22,3,1300,0.5
+94,Drill Press,28,2,1100,0.5
+95,Drill Press,24,3,1200,0.5
+96,Drill Press,26,2,1300,0.5
+97,Drill Press,23,3,1100,0.5
+98,Drill Press,27,2,1200,0.5
+100,Drill Press,22,2,1100,0.5
+101,Plasma Cutter,10,9,1800,0.5
+102,Plasma Cutter,11,8,1900,0.5
+103,Plasma Cutter,9,10,1700,0.5
+104,Plasma Cutter,12,9,1800,0.5
+105,Plasma Cutter,10,8,1900,0.5
+106,Plasma Cutter,11,10,1700,0.5
+107,Plasma Cutter,9,9,1800,0.5
+108,Plasma Cutter,12,8,1900,0.5
+109,Plasma Cutter,10,10,1700,0.5
+110,Plasma Cutter,11,9,1800,0.5
+111,Extruder,5,25,3000,0.5
+112,Extruder,6,24,3100,0.5
+113,Extruder,4,26,2900,0.5
+114,Extruder,7,25,3000,0.5
+115,Extruder,5,24,3100,0.5
+116,Extruder,6,26,2900,0.5
+117,Extruder,4,25,3000,0.5
+118,Extruder,7,24,3100,0.5
+119,Extruder,5,26,2900,0.5
+120,Extruder,6,25,3000,0.5
+121,Conveyor Belt,30,1,4000,0.5
+122,Conveyor Belt,32,1,4100,0.5
+123,Conveyor Belt,28,2,3900,0.5
+124,Conveyor Belt,31,1,4000,0.5
+125,Conveyor Belt,33,2,4100,0.5
+126,Conveyor Belt,29,1,3900,0.5
+127,Conveyor Belt,32,1,4000,0.5
+128,Conveyor Belt,34,2,4100,0.5
+129,Conveyor Belt,30,1,3900,0.5
+130,Conveyor Belt,33,1,4000,0.5
+131,Air Compressor,10,5,3000,0.5
+132,Air Compressor,11,4,3100,0.5
+133,Air Compressor,9,6,2900,0.5
+134,Air Compressor,12,5,3000,0.5
+135,Air Compressor,10,4,3100,0.5
+136,Air Compressor,11,6,2900,0.5
+137,Air Compressor,9,5,3000,0.5
+138,Air Compressor,12,4,3100,0.5
+139,Air Compressor,10,6,2900,0.5
+140,Air Compressor,11,5,3000,0.5
+141,Forklift,15,4,2000,2.7
+142,Forklift,16,3.5,2100,2.7
+143,Forklift,14,4.5,1900,2.7
+144,Forklift,17,4,2000,2.7
+145,Forklift,15,3.5,2100,2.7
+146,Forklift,16,4.5,1900,2.7
+147,Forklift,14,4,2000,2.7
+148,Forklift,17,3.5,2100,2.7
+149,Forklift,15,4.5,1900,2.7
+150,Forklift,16,4,2000,2.7
+151,Generator,5,10,2500,2.7
+152,Generator,6,9,2600,2.7
+153,Generator,4,11,2400,2.7
+154,Generator,7,10,2500,2.7
+155,Generator,5,9,2600,2.7
+156,Generator,6,11,2400,2.7
+157,Generator,4,10,2500,2.7
+158,Generator,7,9,2600,2.7
+159,Generator,5,11,2400,2.7
+160,Generator,6,10,2500,2.7
+161,Water Jet Cutter,4,30,1500,0.5
+162,Water Jet Cutter,5,28,1600,0.5
+163,Water Jet Cutter,3,32,1400,0.5
+164,Water Jet Cutter,6,30,1500,0.5
+165,Water Jet Cutter,4,28,1600,0.5
+166,Water Jet Cutter,5,32,1400,0.5
+167,Water Jet Cutter,3,30,1500,0.5
+168,Water Jet Cutter,6,28,1600,0.5
+169,Water Jet Cutter,4,32,1400,0.5
+170,Water Jet Cutter,5,30,1500,0.5
+171,Electric Furnace,8,50,3000,0.5
+172,Electric Furnace,9,48,3100,0.5
+173,Electric Furnace,7,52,2900,0.5
+174,Electric Furnace,10,50,3000,0.5
+175,Electric Furnace,8,48,3100,0.5
+176,Electric Furnace,9,52,2900,0.5
+177,Electric Furnace,7,50,3000,0.5
+178,Electric Furnace,10,48,3100,0.5
+179,Electric Furnace,8,52,2900,0.5
+180,Electric Furnace,9,50,3000,0.5
+181,Heat Treatment Oven,6,45,2000,0.5
+182,Heat Treatment Oven,7,43,2100,0.5
+183,Heat Treatment Oven,5,47,1900,0.5
+184,Heat Treatment Oven,8,45,2000,0.5
+185,Heat Treatment Oven,6,43,2100,0.5
+186,Heat Treatment Oven,7,47,1900,0.5
+187,Heat Treatment Oven,5,45,2000,0.5
+188,Heat Treatment Oven,8,43,2100,0.5
+189,Heat Treatment Oven,6,47,1900,0.5
+190,Heat Treatment Oven,7,45,2000,0.5
+191,Sandblaster,10,10,1000,0.5
+192,Sandblaster,11,9,1100,0.5
+193,Sandblaster,9,11,900,0.5
+194,Sandblaster,12,10,1000,0.5
+195,Sandblaster,10,9,1100,0.5
+196,Sandblaster,11,11,900,0.5
+197,Sandblaster,9,10,1000,0.5
+198,Sandblaster,12,9,1100,0.5
+199,Sandblaster,10,11,900,0.5
+200,Sandblaster,11,10,1000,0.5
+201,Paint Booth,12,15,2500,0.5
+202,Paint Booth,13,14,2600,0.5
+203,Paint Booth,11,16,2400,0.5
+204,Paint Booth,14,15,2500,0.5
+205,Paint Booth,12,14,2600,0.5
+206,Paint Booth,13,16,2400,0.5
+207,Paint Booth,11,15,2500,0.5
+208,Paint Booth,14,14,2600,0.5
+209,Paint Booth,12,16,2400,0.5
+210,Paint Booth,13,15,2500,0.5
+211,Mixing Machine,20,4,2000,0.5
+212,Mixing Machine,21,3.5,2100,0.5
+213,Mixing Machine,19,4.5,1900,0.5
+214,Mixing Machine,22,4,2000,0.5
+215,Mixing Machine,20,3.5,2100,0.5
+216,Mixing Machine,21,4.5,1900,0.5
+217,Mixing Machine,19,4,2000,0.5
+218,Mixing Machine,22,3.5,2100,0.5
+219,Mixing Machine,20,4.5,1900,0.5
+220,Mixing Machine,21,4,2000,0.5
+221,Sintering Machine,3,35,3000,0.5
+222,Sintering Machine,4,34,3100,0.5
+223,Sintering Machine,2,36,2900,0.5
+224,Sintering Machine,5,35,3000,0.5
+225,Sintering Machine,3,34,3100,0.5
+226,Sintering Machine,4,36,2900,0.5
+227,Sintering Machine,2,35,3000,0.5
+228,Sintering Machine,5,34,3100,0.5
+229,Sintering Machine,3,36,2900,0.5
+230,Sintering Machine,4,35,3000,0.5
+231,Shaper Machine,7,7,1500,0.5
+232,Shaper Machine,8,6,1600,0.5
+233,Shaper Machine,6,8,1400,0.5
+234,Shaper Machine,9,7,1500,0.5
+235,Shaper Machine,7,6,1600,0.5
+236,Shaper Machine,8,8,1400,0.5
+237,Shaper Machine,6,7,1500,0.5
+238,Shaper Machine,9,6,1600,0.5
+239,Shaper Machine,7,8,1400,0.5
+240,Shaper Machine,8,7,1500,0.5
+241,Broaching Machine,5,6,2000,0.5
+242,Broaching Machine,6,5,2100,0.5
+243,Broaching Machine,4,7,1900,0.5
+244,Broaching Machine,7,6,2000,0.5
+245,Broaching Machine,5,5,2100,0.5
+246,Broaching Machine,6,7,1900,0.5
+247,Broaching Machine,4,6,2000,0.5
+248,Broaching Machine,7,5,2100,0.5
+249,Broaching Machine,5,7,1900,0.5
+250,Broaching Machine,6,6,2000,0.5
+251,Woodworking Lathe,12,3,1000,0.5
+252,Woodworking Lathe,13,2.5,1100,0.5
+253,Woodworking Lathe,11,3.5,900,0.5
+254,Woodworking Lathe,14,3,1000,0.5
+255,Woodworking Lathe,12,2.5,1100,0.5
+256,Woodworking Lathe,13,3.5,900,0.5
+257,Woodworking Lathe,11,3,1000,0.5
+258,Woodworking Lathe,14,2.5,1100,0.5
+259,Woodworking Lathe,12,3.5,900,0.5
+260,Woodworking Lathe,13,3,1000,0.5
+261,Planer Machine,8,10,1200,0.5
+262,Planer Machine,9,9,1300,0.5
+263,Planer Machine,7,11,1100,0.5
+264,Planer Machine,10,10,1200,0.5
+265,Planer Machine,8,9,1300,0.5
+266,Planer Machine,9,11,1100,0.5
+267,Planer Machine,7,10,1200,0.5
+268,Planer Machine,10,9,1300,0.5
+269,Planer Machine,8,11,1100,0.5
+270,Planer Machine,9,10,1200,0.5
+271,Shearing Machine,10,8,1500,0.5
+272,Shearing Machine,11,7,1600,0.5
+273,Shearing Machine,9,9,1400,0.5
+274,Shearing Machine,12,8,1500,0.5
+275,Shearing Machine,10,7,1600,0.5
+276,Shearing Machine,11,9,1400,0.5
+277,Shearing Machine,9,8,1500,0.5
+278,Shearing Machine,12,7,1600,0.5
+279,Shearing Machine,10,9,1400,0.5
+280,Shearing Machine,11,8,1500,0.5
+281,Punching Machine,12,9,2000,0.5
+282,Punching Machine,13,8,2100,0.5
+283,Punching Machine,11,10,1900,0.5
+284,Punching Machine,14,9,2000,0.5
+285,Punching Machine,12,8,2100,0.5
+286,Punching Machine,13,10,1900,0.5
+287,Punching Machine,11,9,2000,0.5
+288,Punching Machine,14,8,2100,0.5
+289,Punching Machine,12,10,1900,0.5
+290,Punching Machine,13,9,2000,0.5
+291,Punching Machine,11,8,2100,0.5
+292,Punching Machine,14,10,1900,0.5
+293,Punching Machine,12,9,2000,0.5
+294,Punching Machine,13,8,2100,0.5
+295,Blanking Machine,6,10,1500,0.5
+296,Blanking Machine,7,9,1600,0.5
+297,Blanking Machine,5,11,1400,0.5
+298,Blanking Machine,8,10,1500,0.5
+299,Blanking Machine,6,9,1600,0.5
+300,Blanking Machine,7,11,1400,0.5
+301,Blanking Machine,5,10,1500,0.5
+302,Blanking Machine,8,9,1600,0.5
+303,Blanking Machine,6,11,1400,0.5
+304,Blanking Machine,7,10,1500,0.5
+305,Forming Machine,5,12,2500,0.5
+306,Forming Machine,6,11,2600,0.5
+307,Forming Machine,4,13,2400,0.5
+308,Forming Machine,7,12,2500,0.5
+309,Forming Machine,5,11,2600,0.5
+310,Forming Machine,6,13,2400,0.5
+311,Forming Machine,4,12,2500,0.5
+312,Forming Machine,7,11,2600,0.5
+313,Forming Machine,5,13,2400,0.5
+314,Forming Machine,6,12,2500,0.5
+315,Bending Machine,8,7,3000,0.5
+316,Bending Machine,9,6,3100,0.5
+317,Bending Machine,7,8,2900,0.5
+318,Bending Machine,10,7,3000,0.5
+319,Bending Machine,8,6,3100,0.5
+320,Bending Machine,9,8,2900,0.5
+321,Bending Machine,7,7,3000,0.5
+322,Bending Machine,10,6,3100,0.5
+323,Bending Machine,8,8,2900,0.5
+324,Bending Machine,9,7,3000,0.5
+325,Rolling Machine,4,15,2000,0.5
+326,Rolling Machine,5,14,2100,0.5
+327,Rolling Machine,3,16,1900,0.5
+328,Rolling Machine,6,15,2000,0.5
+329,Rolling Machine,4,14,2100,0.5
+330,Rolling Machine,5,16,1900,0.5
+331,Rolling Machine,3,15,2000,0.5
+332,Rolling Machine,6,14,2100,0.5
+333,Rolling Machine,4,16,1900,0.5
+334,Rolling Machine,5,15,2000,0.5
+335,Drawing Machine,6,10,2000,0.5
+336,Drawing Machine,7,9,2100,0.5
+337,Drawing Machine,5,11,1900,0.5
+338,Drawing Machine,8,10,2000,0.5
+339,Drawing Machine,6,9,2100,0.5
+340,Drawing Machine,7,11,1900,0.5
+341,Drawing Machine,5,10,2000,0.5
+342,Drawing Machine,8,9,2100,0.5
+343,Drawing Machine,6,11,1900,0.5
+344,Drawing Machine,7,10,2000,0.5
+345,Spinning Machine,8,5,1500,0.5
+346,Spinning Machine,9,4,1600,0.5
+347,Spinning Machine,7,6,1400,0.5
+348,Spinning Machine,10,5,1500,0.5
+349,Spinning Machine,8,4,1600,0.5
+350,Spinning Machine,9,6,1400,0.5
+351,Spinning Machine,7,5,1500,0.5
+352,Spinning Machine,10,4,1600,0.5
+353,Spinning Machine,8,6,1400,0.5
+354,Spinning Machine,9,5,1500,0.5
+355,Spinning Machine,7,4,1600,0.5
+356,Knitting Machine,12,6,2500,0.5
+357,Knitting Machine,13,5,2600,0.5
+358,Knitting Machine,11,7,2400,0.5
+359,Knitting Machine,14,6,2500,0.5
+360,Knitting Machine,12,5,2600,0.5
+361,Knitting Machine,13,7,2400,0.5
+362,Knitting Machine,11,6,2500,0.5
+363,Knitting Machine,14,5,2600,0.5
+364,Knitting Machine,12,7,2400,0.5
+365,Knitting Machine,13,6,2500,0.5
+366,Weaving Machine,10,8,3000,0.5
+367,Weaving Machine,11,7,3100,0.5
+368,Weaving Machine,9,9,2900,0.5
+369,Weaving Machine,12,8,3000,0.5
+370,Weaving Machine,10,7,3100,0.5
+371,Weaving Machine,11,9,2900,0.5
+372,Weaving Machine,9,8,3000,0.5
+373,Weaving Machine,12,7,3100,0.5
+374,Weaving Machine,10,9,2900,0.5
+375,Weaving Machine,11,8,3000,0.5
+376,Loom,15,4,2000,0.5
+377,Loom,16,3.5,2100,0.5
+378,Loom,14,4.5,1900,0.5
+379,Loom,17,4,2000,0.5
+380,Loom,15,3.5,2100,0.5
+381,Loom,16,4.5,1900,0.5
+382,Loom,14,4,2000,0.5
+383,Loom,17,3.5,2100,0.5
+384,Loom,15,4.5,1900,0.5
+385,Loom,16,4,2000,0.5
+386,Sewing Machine,25,2,1000,0.5
+387,Sewing Machine,26,1.5,1100,0.5
+388,Sewing Machine,24,2.5,900,0.5
+389,Sewing Machine,27,2,1000,0.5
+390,Sewing Machine,25,1.5,1100,0.5
+391,Sewing Machine,26,2.5,900,0.5
+392,Sewing Machine,24,2,1000,0.5
+393,Sewing Machine,27,1.5,1100,0.5
+394,Sewing Machine,25,2.5,900,0.5
+395,Sewing Machine,26,2,1000,0.5
+396,Embroidery Machine,18,3,1500,0.5
+397,Embroidery Machine,19,2.5,1600,0.5
+398,Embroidery Machine,17,3.5,1400,0.5
+399,Embroidery Machine,20,3,1500,0.5
+400,Embroidery Machine,18,2.5,1600,0.5
+401,Embroidery Machine,19,3.5,1400,0.5
+402,Embroidery Machine,17,3,1500,0.5
+403,Embroidery Machine,20,2.5,1600,0.5
+404,Embroidery Machine,18,3.5,1400,0.5
+405,Embroidery Machine,19,3,1500,0.5
+406,Dyeing Machine,10,20,2500,0.5
+407,Dyeing Machine,11,19,2600,0.5
+408,Dyeing Machine,9,21,2400,0.5
+409,Dyeing Machine,12,20,2500,0.5
+410,Dyeing Machine,10,19,2600,0.5
+411,Dyeing Machine,11,21,2400,0.5
+412,Dyeing Machine,9,20,2500,0.5
+413,Dyeing Machine,12,19,2600,0.5
+414,Dyeing Machine,10,21,2400,0.5
+415,Dyeing Machine,11,20,2500,0.5
+416,Printing Press,8,10,2000,0.5
+417,Printing Press,9,9,2100,0.5
+418,Printing Press,7,11,1900,0.5
+419,Printing Press,10,10,2000,0.5
+420,Printing Press,8,9,2100,0.5
+421,Printing Press,9,11,1900,0.5
+422,Printing Press,7,10,2000,0.5
+423,Printing Press,10,9,2100,0.5
+424,Printing Press,8,11,1900,0.5
+425,Printing Press,9,10,2000,0.5
+426,Offset Printing Machine,5,15,2000,0.5
+427,Offset Printing Machine,6,14,2100,0.5
+428,Offset Printing Machine,4,16,1900,0.5
+429,Offset Printing Machine,7,15,2000,0.5
+430,Offset Printing Machine,5,14,2100,0.5
+431,Offset Printing Machine,6,16,1900,0.5
+432,Offset Printing Machine,4,15,2000,0.5
+433,Offset Printing Machine,7,14,2100,0.5
+434,Offset Printing Machine,5,16,1900,0.5
+435,Offset Printing Machine,6,15,2000,0.5
+436,Digital Printing Machine,12,5,1500,0.5
+437,Digital Printing Machine,13,4,1600,0.5
+438,Digital Printing Machine,11,6,1400,0.5
+439,Digital Printing Machine,14,5,1500,0.5
+440,Digital Printing Machine,12,4,1600,0.5
+441,Digital Printing Machine,13,6,1400,0.5
+442,Digital Printing Machine,11,5,1500,0.5
+443,Digital Printing Machine,14,4,1600,0.5
+444,Digital Printing Machine,12,6,1400,0.5
+445,Digital Printing Machine,13,5,1500,0.5
+446,Screen Printing Machine,10,8,1200,0.5
+447,Screen Printing Machine,11,7,1300,0.5
+448,Screen Printing Machine,9,9,1100,0.5
+449,Screen Printing Machine,12,8,1200,0.5
+450,Screen Printing Machine,10,7,1300,0.5
+451,Screen Printing Machine,11,9,1100,0.5
+452,Screen Printing Machine,9,8,1200,0.5
+453,Screen Printing Machine,12,7,1300,0.5
+454,Screen Printing Machine,10,9,1100,0.5
+455,Screen Printing Machine,11,8,1200,0.5
+456,Textile Dryer,10,25,3000,0.5
+457,Textile Dryer,11,24,3100,0.5
+458,Textile Dryer,9,26,2900,0.5
+459,Textile Dryer,12,25,3000,0.5
+460,Textile Dryer,10,24,3100,0.5
+461,Textile Dryer,11,26,2900,0.5
+462,Textile Dryer,9,25,3000,0.5
+463,Textile Dryer,12,24,3100,0.5
+464,Textile Dryer,10,26,2900,0.5
+465,Textile Dryer,11,25,3000,0.5
+466,Dye Sublimation Printer,7,6,2000,0.5
+467,Dye Sublimation Printer,8,5,2100,0.5
+468,Dye Sublimation Printer,6,7,1900,0.5
+469,Dye Sublimation Printer,9,6,2000,0.5
+470,Dye Sublimation Printer,7,5,2100,0.5
+471,Dye Sublimation Printer,8,7,1900,0.5
+472,Dye Sublimation Printer,6,6,2000,0.5
+473,Dye Sublimation Printer,9,5,2100,0.5
+474,Dye Sublimation Printer,7,7,1900,0.5
+475,Dye Sublimation Printer,8,6,2000,0.5
+476,Plotter,12,2,1000,0.5
+477,Plotter,13,1.5,1100,0.5
+478,Plotter,11,2.5,900,0.5
+479,Plotter,14,2,1000,0.5
+480,Plotter,12,1.5,1100,0.5
+481,Plotter,13,2.5,900,0.5
+482,Plotter,11,2,1000,0.5
+483,Plotter,14,1.5,1100,0.5
+484,Plotter,12,2.5,900,0.5
+485,Plotter,13,2,1000,0.5
+486,Vacuum Forming Machine,6,12,2500,0.5
+487,Vacuum Forming Machine,7,11,2600,0.5
+488,Vacuum Forming Machine,5,13,2400,0.5
+489,Vacuum Forming Machine,8,12,2500,0.5
+490,Vacuum Forming Machine,6,11,2600,0.5
+491,Vacuum Forming Machine,7,13,2400,0.5
+492,Vacuum Forming Machine,5,12,2500,0.5
+493,Vacuum Forming Machine,8,11,2600,0.5
+494,Vacuum Forming Machine,6,13,2400,0.5
+495,Vacuum Forming Machine,7,12,2500,0.5
+496,Vacuum Forming Machine,5,11,2600,0.5
+497,Vacuum Forming Machine,8,13,2400,0.5
+498,Vacuum Forming Machine,6,12,2500,0.5
+499,Vacuum Forming Machine,7,11,2600,0.5
+500,Blister Packing Machine,8,10,2000,0.5
+501,Blister Packing Machine,9,9,2100,0.5
+502,Blister Packing Machine,7,11,1900,0.5
+503,Blister Packing Machine,10,10,2000,0.5
+504,Blister Packing Machine,8,9,2100,0.5
+505,Blister Packing Machine,9,11,1900,0.5
+506,Blister Packing Machine,7,10,2000,0.5
+507,Blister Packing Machine,10,9,2100,0.5
+508,Blister Packing Machine,8,11,1900,0.5
+509,Blister Packing Machine,9,10,2000,0.5
+510,Robotic Arm,20,8,3000,0.5
+511,Robotic Arm,21,7,3100,0.5
+512,Robotic Arm,19,9,2900,0.5
+513,Robotic Arm,22,8,3000,0.5
+514,Robotic Arm,20,7,3100,0.5
+515,Robotic Arm,21,9,2900,0.5
+516,Robotic Arm,19,8,3000,0.5
+517,Robotic Arm,22,7,3100,0.5
+518,Robotic Arm,20,9,2900,0.5
+519,Robotic Arm,21,8,3000,0.5
+520,Metal Cutting Saw,15,6,2000,0.5
+521,Metal Cutting Saw,16,5,2100,0.5
+522,Metal Cutting Saw,14,7,1900,0.5
+523,Metal Cutting Saw,17,6,2000,0.5
+524,Metal Cutting Saw,15,5,2100,0.5
+525,Metal Cutting Saw,16,7,1900,0.5
+526,Metal Cutting Saw,14,6,2000,0.5
+527,Metal Cutting Saw,17,5,2100,0.5
+528,Metal Cutting Saw,15,7,1900,0.5
+529,Metal Cutting Saw,16,6,2000,0.5
+530,Hot Press,5,25,3000,0.5
+531,Hot Press,6,24,3100,0.5
+532,Hot Press,4,26,2900,0.5
+533,Hot Press,7,25,3000,0.5
+534,Hot Press,5,24,3100,0.5
+535,Hot Press,6,26,2900,0.5
+536,Hot Press,4,25,3000,0.5
+537,Hot Press,7,24,3100,0.5
+538,Hot Press,5,26,2900,0.5
+539,Hot Press,6,25,3000,0.5
+540,Cold Press,10,15,1500,0.5
+541,Cold Press,11,14,1600,0.5
+542,Cold Press,9,16,1400,0.5
+543,Cold Press,12,15,1500,0.5
+544,Cold Press,10,14,1600,0.5
+545,Cold Press,11,16,1400,0.5
+546,Cold Press,9,15,1500,0.5
+547,Cold Press,12,14,1600,0.5
+548,Cold Press,10,16,1400,0.5
+549,Cold Press,11,15,1500,0.5
+550,Cold Press,11,14,1600,0.5
+551,Cold Press,9,16,1400,0.5
+552,Cold Press,12,15,1500,0.5
+553,Cold Press,10,14,1600,0.5
+554,Cold Press,11,16,1400,0.5
+555,Cold Press,9,15,1500,0.5
+556,Cold Press,12,14,1600,0.5
+557,Cold Press,10,16,1400,0.5
+558,Injection Molding Machine,8,25,3000,0.5
+559,Injection Molding Machine,9,24,3100,0.5
+560,Injection Molding Machine,7,26,2900,0.5
+561,Injection Molding Machine,10,25,3000,0.5
+562,Injection Molding Machine,8,24,3100,0.5
+563,Injection Molding Machine,9,26,2900,0.5
+564,Injection Molding Machine,7,25,3000,0.5
+565,Injection Molding Machine,10,24,3100,0.5
+566,Injection Molding Machine,8,26,2900,0.5
+567,Injection Molding Machine,9,25,3000,0.5
+568,Extrusion Machine,5,30,2500,0.5
+569,Extrusion Machine,6,29,2600,0.5
+570,Extrusion Machine,4,31,2400,0.5
+571,Extrusion Machine,7,30,2500,0.5
+572,Extrusion Machine,5,29,2600,0.5
+573,Extrusion Machine,6,31,2400,0.5
+574,Extrusion Machine,4,30,2500,0.5
+575,Extrusion Machine,7,29,2600,0.5
+576,Extrusion Machine,5,31,2400,0.5
+577,Extrusion Machine,6,30,2500,0.5
+578,Heat Sealing Machine,10,20,2000,0.5
+579,Heat Sealing Machine,11,19,2100,0.5
+580,Heat Sealing Machine,9,21,1900,0.5
+581,Heat Sealing Machine,12,20,2000,0.5
+582,Heat Sealing Machine,10,19,2100,0.5
+583,Heat Sealing Machine,11,21,1900,0.5
+584,Heat Sealing Machine,9,20,2000,0.5
+585,Heat Sealing Machine,12,19,2100,0.5
+586,Heat Sealing Machine,10,21,1900,0.5
+587,Heat Sealing Machine,11,20,2000,0.5
+588,Packaging Machine,15,5,2500,0.5
+589,Packaging Machine,16,4.5,2600,0.5
+590,Packaging Machine,14,5.5,2400,0.5
+591,Packaging Machine,17,5,2500,0.5
+592,Packaging Machine,15,4.5,2600,0.5
+593,Packaging Machine,16,5.5,2400,0.5
+594,Packaging Machine,14,5,2500,0.5
+595,Packaging Machine,17,4.5,2600,0.5
+596,Packaging Machine,15,5.5,2400,0.5
+597,Packaging Machine,16,5,2500,0.5
+598,Compression Molding Machine,12,15,3000,0.5
+599,Compression Molding Machine,13,14,3100,0.5
+600,Compression Molding Machine,11,16,2900,0.5
+601,Compression Molding Machine,14,15,3000,0.5
+602,Compression Molding Machine,12,14,3100,0.5
+603,Compression Molding Machine,13,16,2900,0.5
+604,Compression Molding Machine,11,15,3000,0.5
+605,Compression Molding Machine,14,14,3100,0.5
+606,Compression Molding Machine,12,16,2900,0.5
+607,Compression Molding Machine,13,15,3000,0.5
+608,Compression Molding Machine,11,14,3100,0.5
+609,Compression Molding Machine,14,16,2900,0.5
+610,Compression Molding Machine,12,15,3000,0.5
+611,Industrial Dryer,8,25,2500,0.5
+612,Industrial Dryer,9,24,2600,0.5
+613,Industrial Dryer,7,26,2400,0.5
+614,Industrial Dryer,10,25,2500,0.5
+615,Industrial Dryer,8,24,2600,0.5
+616,Industrial Dryer,9,26,2400,0.5
+617,Industrial Dryer,7,25,2500,0.5
+618,Industrial Dryer,10,24,2600,0.5
+619,Industrial Dryer,8,26,2400,0.5
+620,Industrial Dryer,9,25,2500,0.5
+621,Industrial Oven,8,30,3000,0.5
+622,Industrial Oven,9,29,3100,0.5
+623,Industrial Oven,7,31,2900,0.5
+624,Industrial Oven,10,30,3000,0.5
+625,Industrial Oven,8,29,3100,0.5
+626,Industrial Oven,9,31,2900,0.5
+627,Industrial Oven,7,30,3000,0.5
+628,Industrial Oven,10,29,3100,0.5
+629,Industrial Oven,8,31,2900,0.5
+630,Industrial Oven,9,30,3000,0.5
+631,Sand Casting Machine,15,5,2500,0.5
+632,Sand Casting Machine,16,4,2600,0.5
+633,Sand Casting Machine,14,6,2400,0.5
+634,Sand Casting Machine,17,5,2500,0.5
+635,Sand Casting Machine,15,4,2600,0.5
+636,Sand Casting Machine,16,6,2400,0.5
+637,Sand Casting Machine,14,5,2500,0.5
+638,Sand Casting Machine,17,4,2600,0.5
+639,Sand Casting Machine,15,6,2400,0.5
+640,Sand Casting Machine,16,5,2500,0.5
+641,Vibratory Finishing Machine,10,15,3000,0.5
+642,Vibratory Finishing Machine,11,14,3100,0.5
+643,Vibratory Finishing Machine,9,16,2900,0.5
+644,Vibratory Finishing Machine,12,15,3000,0.5
+645,Vibratory Finishing Machine,10,14,3100,0.5
+646,Vibratory Finishing Machine,11,16,2900,0.5
+647,Vibratory Finishing Machine,9,15,3000,0.5
+648,Vibratory Finishing Machine,12,14,3100,0.5
+649,Vibratory Finishing Machine,10,16,2900,0.5
+650,Vibratory Finishing Machine,11,15,3000,0.5
+651,Die Casting Machine,20,8,3000,0.5
+652,Die Casting Machine,21,7,3100,0.5
+653,Die Casting Machine,19,9,2900,0.5
+654,Die Casting Machine,22,8,3000,0.5
+655,Die Casting Machine,20,7,3100,0.5
+656,Die Casting Machine,21,9,2900,0.5
+657,Die Casting Machine,19,8,3000,0.5
+658,Die Casting Machine,22,7,3100,0.5
+659,Die Casting Machine,20,9,2900,0.5
+660,Die Casting Machine,21,8,3000,0.5
+661,Plastic Recycling Machine,15,25,2000,0.5
+662,Plastic Recycling Machine,16,24,2100,0.5
+663,Plastic Recycling Machine,14,26,1900,0.5
+664,Plastic Recycling Machine,17,25,2000,0.5
+665,Plastic Recycling Machine,15,24,2100,0.5
+666,Plastic Recycling Machine,16,26,1900,0.5
+667,Plastic Recycling Machine,14,25,2000,0.5
+668,Plastic Recycling Machine,17,24,2100,0.5
+669,Plastic Recycling Machine,15,26,1900,0.5
+670,Plastic Recycling Machine,16,25,2000,0.5
+671,Wire Drawing Machine,10,15,3000,0.5
+672,Wire Drawing Machine,11,14,3100,0.5
+673,Wire Drawing Machine,9,16,2900,0.5
+674,Wire Drawing Machine,12,15,3000,0.5
+675,Wire Drawing Machine,10,14,3100,0.5
+676,Wire Drawing Machine,11,16,2900,0.5
+677,Wire Drawing Machine,9,15,3000,0.5
+678,Wire Drawing Machine,12,14,3100,0.5
+679,Wire Drawing Machine,10,16,2900,0.5
+680,Wire Drawing Machine,11,15,3000,0.5
+681,Wire Rope Making Machine,20,8,3000,0.5
+682,Wire Rope Making Machine,21,7,3100,0.5
+683,Wire Rope Making Machine,19,9,2900,0.5
+684,Wire Rope Making Machine,22,8,3000,0.5
+685,Wire Rope Making Machine,20,7,3100,0.5
+686,Wire Rope Making Machine,21,9,2900,0.5
+687,Wire Rope Making Machine,19,8,3000,0.5
+688,Wire Rope Making Machine,22,7,3100,0.5
+689,Wire Rope Making Machine,20,9,2900,0.5
+690,Wire Rope Making Machine,21,8,3000,0.5
+691,Soldering Machine,8,30,2500,0.5
+692,Soldering Machine,9,29,2600,0.5
+693,Soldering Machine,7,31,2400,0.5
+694,Soldering Machine,10,30,2500,0.5
+695,Soldering Machine,8,29,2600,0.5
+696,Soldering Machine,9,31,2400,0.5
+697,Soldering Machine,7,30,2500,0.5
+698,Soldering Machine,10,29,2600,0.5
+699,Soldering Machine,8,31,2400,0.5
+700,Soldering Machine,9,30,2500,0.5
+701,Wire Stripping Machine,15,5,2500,0.5
+702,Wire Stripping Machine,16,4,2600,0.5
+703,Wire Stripping Machine,14,6,2400,0.5
+704,Wire Stripping Machine,17,5,2500,0.5
+705,Wire Stripping Machine,15,4,2600,0.5
+706,Wire Stripping Machine,16,6,2400,0.5
+707,Wire Stripping Machine,14,5,2500,0.5
+708,Wire Stripping Machine,17,4,2600,0.5
+709,Wire Stripping Machine,15,6,2400,0.5
+710,Wire Stripping Machine,16,5,2500,0.5
+711,Industrial Shredder,20,8,3000,0.5
+712,Industrial Shredder,21,7,3100,0.5
+713,Industrial Shredder,19,9,2900,0.5
+714,Industrial Shredder,22,8,3000,0.5
+715,Industrial Shredder,20,7,3100,0.5
+716,Industrial Shredder,21,9,2900,0.5
+717,Industrial Shredder,19,8,3000,0.5
+718,Industrial Shredder,22,7,3100,0.5
+719,Industrial Shredder,20,9,2900,0.5
+720,Industrial Shredder,21,8,3000,0.5
+721,Industrial Baler,15,5,2500,0.5
+722,Industrial Baler,16,4,2600,0.5
+723,Industrial Baler,14,6,2400,0.5
+724,Industrial Baler,17,5,2500,0.5
+725,Industrial Baler,15,4,2600,0.5
+726,Industrial Baler,16,6,2400,0.5
+727,Industrial Baler,14,5,2500,0.5
+728,Industrial Baler,17,4,2600,0.5
+729,Industrial Baler,15,6,2400,0.5
+730,Industrial Baler,16,5,2500,0.5
+731,Industrial Crusher,20,8,3000,0.5
+732,Industrial Crusher,21,7,3100,0.5
+733,Industrial Crusher,19,9,2900,0.5
+734,Industrial Crusher,22,8,3000,0.5
+735,Industrial Crusher,20,7,3100,0.5
+736,Industrial Crusher,21,9,2900,0.5
+737,Industrial Crusher,19,8,3000,0.5
+738,Industrial Crusher,22,7,3100,0.5
+739,Industrial Crusher,20,9,2900,0.5
+740,Industrial Crusher,21,8,3000,0.5
+741,Parts Counter,15,25,2000,0.5
+742,Parts Counter,16,24,2100,0.5
+743,Parts Counter,14,26,1900,0.5
+744,Parts Counter,17,25,2000,0.5
+745,Parts Counter,15,24,2100,0.5
+746,Parts Counter,16,26,1900,0.5
+747,Parts Counter,14,25,2000,0.5
+748,Parts Counter,17,24,2100,0.5
+749,Parts Counter,15,26,1900,0.5
+750,Parts Counter,16,25,2000,0.5
+751,Sanding Machine,10,15,3000,0.5
+752,Sanding Machine,11,14,3100,0.5
+753,Sanding Machine,9,16,2900,0.5
+754,Sanding Machine,12,15,3000,0.5
+755,Sanding Machine,10,14,3100,0.5
+756,Sanding Machine,11,16,2900,0.5
+757,Sanding Machine,9,15,3000,0.5
+758,Sanding Machine,12,14,3100,0.5
+759,Sanding Machine,10,16,2900,0.5
+760,Sanding Machine,11,15,3000,0.5
+761,Industrial Washer,20,8,3000,0.5
+762,Industrial Washer,21,7,3100,0.5
+763,Industrial Washer,19,9,2900,0.5
+764,Industrial Washer,22,8,3000,0.5
+765,Industrial Washer,20,7,3100,0.5
+766,Industrial Washer,21,9,2900,0.5
+767,Industrial Washer,19,8,3000,0.5
+768,Industrial Washer,22,7,3100,0.5
+769,Industrial Washer,20,9,2900,0.5
+770,Industrial Washer,21,8,3000,0.5
+771,Industrial Dryer,15,25,2000,0.5
+772,Industrial Dryer,16,24,2100,0.5
+773,Industrial Dryer,14,26,1900,0.5
+774,Industrial Dryer,17,25,2000,0.5
+775,Industrial Dryer,15,24,2100,0.5
+776,Industrial Dryer,16,26,1900,0.5
+777,Industrial Dryer,14,25,2000,0.5
+778,Industrial Dryer,17,24,2100,0.5
+779,Industrial Dryer,15,26,1900,0.5
+780,Industrial Dryer,16,25,2000,0.5
+781,Packaging Machine,20,8,3000,0.5
+782,Packaging Machine,21,7,3100,0.5
+783,Packaging Machine,19,9,2900,0.5
+784,Packaging Machine,22,8,3000,0.5
+785,Packaging Machine,20,7,3100,0.5
+786,Packaging Machine,21,9,2900,0.5
+787,Packaging Machine,19,8,3000,0.5
+788,Packaging Machine,22,7,3100,0.5
+789,Packaging Machine,20,9,2900,0.5
+790,Packaging Machine,21,8,3000,0.5
+791,Injection Molding Machine,15,25,2000,0.5
+792,Injection Molding Machine,16,24,2100,0.5
+793,Injection Molding Machine,14,26,1900,0.5
+794,Injection Molding Machine,17,25,2000,0.5
+795,Injection Molding Machine,15,24,2100,0.5
+796,Injection Molding Machine,16,26,1900,0.5
+797,Injection Molding Machine,14,25,2000,0.5
+798,Injection Molding Machine,17,24,2100,0.5
+799,Injection Molding Machine,15,26,1900,0.5
+800,Injection Molding Machine,16,25,2000,0.5
+801,Stamping Press,20,8,3000,0.5
+802,Stamping Press,21,7,3100,0.5
+803,Stamping Press,19,9,2900,0.5
+804,Stamping Press,22,8,3000,0.5
+805,Stamping Press,20,7,3100,0.5
+806,Stamping Press,21,9,2900,0.5
+807,Stamping Press,19,8,3000,0.5
+808,Stamping Press,22,7,3100,0.5
+809,Stamping Press,20,9,2900,0.5
+810,Stamping Press,21,8,3000,0.5
+811,Wire Cutting Machine,15,25,2000,0.5
+812,Wire Cutting Machine,16,24,2100,0.5
+813,Wire Cutting Machine,14,26,1900,0.5
+814,Wire Cutting Machine,17,25,2000,0.5
+815,Wire Cutting Machine,15,24,2100,0.5
+816,Wire Cutting Machine,16,26,1900,0.5
+817,Wire Cutting Machine,14,25,2000,0.5
+818,Wire Cutting Machine,17,24,2100,0.5
+819,Wire Cutting Machine,15,26,1900,0.5
+820,Wire Cutting Machine,16,25,2000,0.5
+821,Industrial Press,20,8,3000,0.5
+822,Industrial Press,21,7,3100,0.5
+823,Industrial Press,19,9,2900,0.5
+824,Industrial Press,22,8,3000,0.5
+825,Industrial Press,20,7,3100,0.5
+826,Industrial Press,21,9,2900,0.5
+827,Industrial Press,19,8,3000,0.5
+828,Industrial Press,22,7,3100,0.5
+829,Industrial Press,20,9,2900,0.5
+830,Industrial Press,21,8,3000,0.5
+831,Die Cutting Machine,15,25,2000,0.5
+832,Die Cutting Machine,16,24,2100,0.5
+833,Die Cutting Machine,14,26,1900,0.5
+834,Die Cutting Machine,17,25,2000,0.5
+835,Die Cutting Machine,15,24,2100,0.5
+836,Die Cutting Machine,16,26,1900,0.5
+837,Die Cutting Machine,14,25,2000,0.5
+838,Die Cutting Machine,17,24,2100,0.5
+839,Die Cutting Machine,15,26,1900,0.5
+840,Die Cutting Machine,16,25,2000,0.5
+841,Industrial Grinder,20,8,3000,0.5
+842,Industrial Grinder,21,7,3100,0.5
+843,Industrial Grinder,19,9,2900,0.5
+844,Industrial Grinder,22,8,3000,0.5
+845,Industrial Grinder,20,7,3100,0.5
+846,Industrial Grinder,21,9,2900,0.5
+847,Industrial Grinder,19,8,3000,0.5
+848,Industrial Grinder,22,7,3100,0.5
+849,Industrial Grinder,20,9,2900,0.5
+850,Industrial Grinder,21,8,3000,0.5
+851,Industrial Mixer,15,25,2000,0.5
+852,Industrial Mixer,16,24,2100,0.5
+853,Industrial Mixer,14,26,1900,0.5
+854,Industrial Mixer,17,25,2000,0.5
+855,Industrial Mixer,15,24,2100,0.5
+856,Industrial Mixer,16,26,1900,0.5
+857,Industrial Mixer,14,25,2000,0.5
+858,Industrial Mixer,17,24,2100,0.5
+859,Industrial Mixer,15,26,1900,0.5
+860,Industrial Mixer,16,25,2000,0.5
+861,Industrial Dryer,20,8,3000,0.5
+862,Industrial Dryer,21,7,3100,0.5
+863,Industrial Dryer,19,9,2900,0.5
+864,Industrial Dryer,22,8,3000,0.5
+865,Industrial Dryer,20,7,3100,0.5
+866,Industrial Dryer,21,9,2900,0.5
+867,Industrial Dryer,19,8,3000,0.5
+868,Industrial Dryer,22,7,3100,0.5
+869,Industrial Dryer,20,9,2900,0.5
+870,Industrial Dryer,21,8,3000,0.5
+871,Industrial Oven,15,25,2000,0.5
+872,Industrial Oven,16,24,2100,0.5
+873,Industrial Oven,14,26,1900,0.5
+874,Industrial Oven,17,25,2000,0.5
+875,Industrial Oven,15,24,2100,0.5
+876,Industrial Oven,16,26,1900,0.5
+877,Industrial Oven,14,25,2000,0.5
+878,Industrial Oven,17,24,2100,0.5
+879,Industrial Oven,15,26,1900,0.5
+880,Industrial Oven,16,25,2000,0.5
+881,Industrial Furnace,20,8,3000,0.5
+882,Industrial Furnace,21,7,3100,0.5
+883,Industrial Furnace,19,9,2900,0.5
+884,Industrial Furnace,22,8,3000,0.5
+885,Industrial Furnace,20,7,3100,0.5
+886,Industrial Furnace,21,9,2900,0.5
+887,Industrial Furnace,19,8,3000,0.5
+888,Industrial Furnace,22,7,3100,0.5
+889,Industrial Furnace,20,9,2900,0.5
+890,Industrial Furnace,21,8,3000,0.5
+891,Industrial Washer,15,25,2000,0.5
+892,Industrial Washer,16,24,2100,0.5
+893,Industrial Washer,14,26,1900,0.5
+894,Industrial Washer,17,25,2000,0.5
+895,Industrial Washer,15,24,2100,0.5
+896,Industrial Washer,16,26,1900,0.5
+897,Industrial Washer,14,25,2000,0.5
+898,Industrial Washer,17,24,2100,0.5
+899,Industrial Washer,15,26,1900,0.5
+900,Industrial Washer,16,25,2000,0.5
+901,Vacuum Sealer,20,8,3000,0.5
+902,Vacuum Sealer,21,7,3100,0.5
+903,Vacuum Sealer,19,9,2900,0.5
+904,Vacuum Sealer,22,8,3000,0.5
+905,Vacuum Sealer,20,7,3100,0.5
+906,Vacuum Sealer,21,9,2900,0.5
+907,Vacuum Sealer,19,8,3000,0.5
+908,Vacuum Sealer,22,7,3100,0.5
+909,Vacuum Sealer,20,9,2900,0.5
+910,Vacuum Sealer,21,8,3000,0.5
+911,Labeling Machine,15,25,2000,0.5
+912,Labeling Machine,16,24,2100,0.5
+913,Labeling Machine,14,26,1900,0.5
+914,Labeling Machine,17,25,2000,0.5
+915,Labeling Machine,15,24,2100,0.5
+916,Labeling Machine,16,26,1900,0.5
+917,Labeling Machine,14,25,2000,0.5
+918,Labeling Machine,17,24,2100,0.5
+919,Labeling Machine,15,26,1900,0.5
+920,Labeling Machine,16,25,2000,0.5
+921,Packaging Machine,20,8,3000,0.5
+922,Packaging Machine,21,7,3100,0.5
+923,Packaging Machine,19,9,2900,0.5
+924,Packaging Machine,22,8,3000,0.5
+925,Packaging Machine,20,7,3100,0.5
+926,Packaging Machine,21,9,2900,0.5
+927,Packaging Machine,19,8,3000,0.5
+928,Packaging Machine,22,7,3100,0.5
+929,Packaging Machine,20,9,2900,0.5
+930,Packaging Machine,21,8,3000,0.5
+931,Bottle Filling Machine,15,25,2000,0.5
+932,Bottle Filling Machine,16,24,2100,0.5
+933,Bottle Filling Machine,14,26,1900,0.5
+934,Bottle Filling Machine,17,25,2000,0.5
+935,Bottle Filling Machine,15,24,2100,0.5
+936,Bottle Filling Machine,16,26,1900,0.5
+937,Bottle Filling Machine,14,25,2000,0.5
+938,Bottle Filling Machine,17,24,2100,0.5
+939,Bottle Filling Machine,15,26,1900,0.5
+940,Bottle Filling Machine,16,25,2000,0.5
+941,Capping Machine,20,8,3000,0.5
+942,Capping Machine,21,7,3100,0.5
+943,Capping Machine,19,9,2900,0.5
+944,Capping Machine,22,8,3000,0.5
+945,Capping Machine,20,7,3100,0.5
+946,Capping Machine,21,9,2900,0.5
+947,Capping Machine,19,8,3000,0.5
+948,Capping Machine,22,7,3100,0.5
+949,Capping Machine,20,9,2900,0.5
+950,Capping Machine,21,8,3000,0.5
+951,Blow Molding Machine,15,25,2000,0.5
+952,Blow Molding Machine,16,24,2100,0.5
+953,Blow Molding Machine,14,26,1900,0.5
+954,Blow Molding Machine,17,25,2000,0.5
+955,Blow Molding Machine,15,24,2100,0.5
+956,Blow Molding Machine,16,26,1900,0.5
+957,Blow Molding Machine,14,25,2000,0.5
+958,Blow Molding Machine,17,24,2100,0.5
+959,Blow Molding Machine,15,26,1900,0.5
+960,Blow Molding Machine,16,25,2000,0.5
+961,Shrink Wrap Machine,20,8,3000,0.5
+962,Shrink Wrap Machine,21,7,3100,0.5
+963,Shrink Wrap Machine,19,9,2900,0.5
+964,Shrink Wrap Machine,22,8,3000,0.5
+965,Shrink Wrap Machine,20,7,3100,0.5
+966,Shrink Wrap Machine,21,9,2900,0.5
+967,Shrink Wrap Machine,19,8,3000,0.5
+968,Shrink Wrap Machine,22,7,3100,0.5
+969,Shrink Wrap Machine,20,9,2900,0.5
+970,Shrink Wrap Machine,21,8,3000,0.5
+971,Palletizer,15,25,2000,0.5
+972,Palletizer,16,24,2100,0.5
+973,Palletizer,14,26,1900,0.5
+974,Palletizer,17,25,2000,0.5
+975,Palletizer,15,24,2100,0.5
+976,Palletizer,16,26,1900,0.5
+977,Palletizer,14,25,2000,0.5
+978,Palletizer,17,24,2100,0.5
+979,Palletizer,15,26,1900,0.5
+980,Palletizer,16,25,2000,0.5
+981,Depalletizer,20,8,3000,0.5
+982,Depalletizer,21,7,3100,0.5
+983,Depalletizer,19,9,2900,0.5
+984,Depalletizer,22,8,3000,0.5
+985,Depalletizer,20,7,3100,0.5
+986,Depalletizer,21,9,2900,0.5
+987,Depalletizer,19,8,3000,0.5
+988,Depalletizer,22,7,3100,0.5
+989,Depalletizer,20,9,2900,0.5
+990,Depalletizer,21,8,3000,0.5
+991,Conveyor System,15,25,2000,0.5
+992,Conveyor System,16,24,2100,0.5
+993,Conveyor System,14,26,1900,0.5
+994,Conveyor System,17,25,2000,0.5
+995,Conveyor System,15,24,2100,0.5
+996,Conveyor System,16,26,1900,0.5
+997,Conveyor System,14,25,2000,0.5
+998,Conveyor System,17,24,2100,0.5
+999,Conveyor System,15,26,1900,0.5
+1000,Conveyor System,16,25,2000,0.5

@@ -1,0 +1,5 @@
+Provide the following information to estimate emissions:
+            
+1. Select raw material type.
+2. Enter mass used (kg).
+3. Carbon emission factor is automatically assigned based on material selected (kgCO2/kg).

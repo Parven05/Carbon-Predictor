@@ -1,0 +1,1003 @@
+No,Machinery,Quantity,Fuel_consumption_rate,Hours_of_operation,Carbon_emission_factor
+1,Excavator,5,20,8,1.5
+2,Excavator,6,18,10,1.4
+3,Excavator,7,22,6,1.7
+4,Excavator,8,25,12,1.6
+5,Excavator,9,28,8,1.8
+6,Excavator,10,30,8,2.0
+7,Excavator,11,15,8,1.3
+8,Excavator,12,32,8,1.9
+9,Excavator,13,35,8,2.2
+10,Excavator,14,38,8,2.5
+11,Bulldozer,4,25,8,1.8
+12,Bulldozer,5,22,6,1.7
+13,Bulldozer,6,28,10,2.0
+14,Bulldozer,7,30,12,2.2
+15,Bulldozer,8,32,8,2.3
+16,Bulldozer,9,35,8,2.5
+17,Bulldozer,10,38,8,2.6
+18,Bulldozer,11,40,8,2.8
+19,Bulldozer,12,22,8,1.7
+20,Bulldozer,13,45,8,2.6
+21,Crane,3,30,10,2.0
+22,Crane,4,28,8,2.0
+23,Crane,5,32,8,2.3
+24,Crane,6,35,12,2.3
+25,Crane,7,38,8,2.6
+26,Crane,8,40,10,2.2
+27,Crane,9,45,8,2.6
+28,Crane,10,50,8,2.8
+29,Crane,11,22,8,1.7
+30,Crane,12,55,8,3.0
+31,Dump Truck,6,35,8,2.2
+32,Dump Truck,7,30,8,2.1
+33,Dump Truck,8,40,12,2.3
+34,Dump Truck,9,45,8,2.6
+35,Dump Truck,10,50,8,2.8
+36,Dump Truck,11,55,10,3.0
+37,Dump Truck,12,60,8,3.2
+38,Dump Truck,13,32,8,2.3
+39,Dump Truck,14,65,8,3.5
+40,Dump Truck,15,70,8,3.7
+41,Concrete Mixer,7,18,8,1.6
+42,Concrete Mixer,8,20,10,1.8
+43,Concrete Mixer,9,22,8,1.7
+44,Concrete Mixer,10,25,12,2.0
+45,Concrete Mixer,11,28,8,1.9
+46,Concrete Mixer,12,30,8,2.1
+47,Concrete Mixer,13,32,8,2.3
+48,Concrete Mixer,14,35,8,2.5
+49,Concrete Mixer,15,38,8,2.6
+50,Concrete Mixer,16,40,8,2.8
+51,Backhoe,5,22,8,1.7
+52,Backhoe,6,20,10,1.6
+53,Backhoe,7,25,8,1.9
+54,Backhoe,8,18,12,1.4
+55,Backhoe,9,30,8,2.1
+56,Backhoe,10,28,8,2.0
+57,Backhoe,11,32,8,2.3
+58,Backhoe,12,35,8,2.5
+59,Backhoe,13,38,8,2.6
+60,Backhoe,14,40,8,2.8
+61,Wheel Loader,4,28,8,2.0
+62,Wheel Loader,5,25,10,1.9
+63,Wheel Loader,6,30,8,2.1
+64,Wheel Loader,7,32,12,2.3
+65,Wheel Loader,8,35,8,2.5
+66,Wheel Loader,9,38,8,2.6
+67,Wheel Loader,10,40,8,2.8
+68,Wheel Loader,11,42,8,3.0
+69,Wheel Loader,12,45,8,3.2
+70,Wheel Loader,13,48,8,3.4
+71,Skid Steer Loader,8,15,8,1.4
+72,Skid Steer Loader,9,18,10,1.6
+73,Skid Steer Loader,10,20,8,1.5
+74,Skid Steer Loader,11,22,12,1.7
+75,Skid Steer Loader,12,25,8,1.9
+76,Skid Steer Loader,13,28,8,2.1
+77,Skid Steer Loader,14,30,8,2.2
+78,Skid Steer Loader,15,32,8,2.4
+79,Skid Steer Loader,16,35,8,2.6
+80,Skid Steer Loader,17,38,8,2.8
+81,Compactor,4,20,8,1.8
+82,Compactor,5,22,10,1.9
+83,Compactor,6,25,8,2.0
+84,Compactor,7,28,12,2.2
+85,Compactor,8,30,8,2.3
+86,Compactor,9,32,8,2.5
+87,Compactor,10,35,8,2.7
+88,Compactor,11,38,8,2.8
+89,Compactor,12,40,8,3.0
+90,Compactor,13,42,8,3.2
+91,Tower Crane,2,35,10,2.2
+92,Tower Crane,3,32,8,2.1
+93,Tower Crane,4,30,12,2.3
+94,Tower Crane,5,28,8,2.0
+95,Tower Crane,6,25,8,1.9
+96,Tower Crane,7,22,8,1.7
+97,Tower Crane,8,40,8,2.5
+98,Tower Crane,9,45,8,2.8
+99,Tower Crane,10,50,8,3.0
+100,Tower Crane,11,55,8,3.2
+101,Asphalt Paver,3,30,8,2
+102,Asphalt Paver,4,28,10,2.2
+103,Asphalt Paver,5,35,8,2.5
+104,Asphalt Paver,6,32,8,2.3
+105,Asphalt Paver,7,40,8,2.8
+106,Asphalt Paver,8,38,8,2.6
+107,Asphalt Paver,9,45,8,3.0
+108,Asphalt Paver,10,48,8,3.2
+109,Asphalt Paver,11,50,8,3.5
+110,Asphalt Paver,12,55,8,3.8
+111,Grader,4,25,8,1.9
+112,Grader,5,28,10,2.1
+113,Grader,6,30,8,2.2
+114,Grader,7,32,12,2.4
+115,Grader,8,35,8,2.5
+116,Grader,9,38,8,2.7
+117,Grader,10,40,8,2.9
+118,Grader,11,42,8,3.1
+119,Grader,12,45,8,3.3
+120,Grader,13,48,8,3.6
+121,Rock Crusher,2,40,8,2.5
+122,Rock Crusher,3,38,10,2.7
+123,Rock Crusher,4,35,8,2.4
+124,Rock Crusher,5,32,8,2.3
+125,Rock Crusher,6,30,12,2.6
+126,Rock Crusher,7,28,8,2.2
+127,Rock Crusher,8,45,8,3.0
+128,Rock Crusher,9,48,8,3.3
+129,Rock Crusher,10,50,8,3.5
+130,Rock Crusher,11,55,8,3.8
+131,Concrete Pump,3,32,8,2.3
+132,Concrete Pump,4,30,10,2.5
+133,Concrete Pump,5,28,8,2.2
+134,Concrete Pump,6,25,12,2.4
+135,Concrete Pump,7,22,8,2.1
+136,Concrete Pump,8,38,8,2.7
+137,Concrete Pump,9,40,8,2.9
+138,Concrete Pump,10,45,8,3.2
+139,Concrete Pump,11,48,8,3.5
+140,Concrete Pump,12,50,8,3.7
+141,Pile Driver,2,38,10,2.4
+142,Pile Driver,3,35,8,2.1
+143,Pile Driver,4,32,8,2.0
+144,Pile Driver,5,30,12,2.3
+145,Pile Driver,6,28,8,2.2
+146,Pile Driver,7,25,8,1.9
+147,Pile Driver,8,45,8,3.0
+148,Pile Driver,9,48,8,3.3
+149,Pile Driver,10,50,8,3.5
+150,Pile Driver,11,55,8,3.8
+151,Trencher,3,20,8,1.6
+152,Trencher,4,22,10,1.8
+153,Trencher,5,25,8,1.9
+154,Trencher,6,28,12,2.2
+155,Trencher,7,30,8,2.1
+156,Trencher,8,32,8,2.3
+157,Trencher,9,35,8,2.5
+158,Trencher,10,38,8,2.6
+159,Trencher,11,40,8,2.8
+160,Trencher,12,42,8,3.0
+161,Front Shovel,2,45,8,2.6
+162,Front Shovel,3,40,10,2.4
+163,Front Shovel,4,38,8,2.3
+164,Front Shovel,5,35,12,2.6
+165,Front Shovel,6,32,8,2.2
+166,Front Shovel,7,30,8,2.1
+167,Front Shovel,8,50,8,3.0
+168,Front Shovel,9,55,8,3.3
+169,Front Shovel,10,60,8,3.6
+170,Front Shovel,11,65,8,3.9
+171,Articulated Hauler,3,30,8,2.1
+172,Articulated Hauler,4,32,10,2.3
+173,Articulated Hauler,5,35,8,2.5
+174,Articulated Hauler,6,38,12,2.7
+175,Articulated Hauler,7,40,8,2.8
+176, Articulated Hauler, 8, 42, 8, 3.0
+177, Articulated Hauler, 9, 45, 8, 3.2
+178, Articulated Hauler, 10, 48, 8, 3.5
+179, Articulated Hauler, 11, 50, 8, 3.7
+180, Articulated Hauler, 12, 55, 8, 4.0
+181, Tower Light, 10, 8, 12, 0.5
+182, Tower Light, 11, 7, 12, 0.4
+183, Tower Light, 12, 6, 12, 0.3
+184, Tower Light, 13, 9, 12, 0.6
+185, Tower Light, 14, 5, 12, 0.2
+186, Tower Light, 15, 11, 12, 0.7
+187, Tower Light, 16, 4, 12, 0.1
+188, Tower Light, 17, 8, 12, 0.4
+189, Tower Light, 18, 10, 12, 0.5
+190, Tower Light, 19, 12, 12, 0.6
+191, Crusher Plant, 1, 50, 10, 2.8
+192, Crusher Plant, 2, 55, 8, 3.0
+193, Crusher Plant, 3, 60, 12, 3.2
+194, Crusher Plant, 4, 65, 8, 3.5
+195, Crusher Plant, 5, 70, 8, 3.7
+196, Crusher Plant, 6, 75, 8, 4.0
+197, Crusher Plant, 7, 80, 8, 4.3
+198, Crusher Plant, 8, 85, 8, 4.5
+199, Crusher Plant, 9, 90, 8, 4.8
+200, Crusher Plant, 10, 95, 8, 5.0
+201, Conveyor Belt, 5, 10, 24, 1.3
+202, Conveyor Belt, 6, 9, 24, 1.2
+203, Conveyor Belt, 7, 8, 24, 1.1
+204, Conveyor Belt, 8, 7, 24, 1.0
+205, Conveyor Belt, 9, 11, 24, 1.4
+206, Conveyor Belt, 10, 12, 24, 1.5
+207, Conveyor Belt, 11, 13, 24, 1.6
+208, Conveyor Belt, 12, 6, 24, 0.9
+209, Conveyor Belt, 13, 14, 24, 1.7
+210, Conveyor Belt, 14, 15, 24, 1.8
+211, Dewatering Pump, 4, 12, 24, 1.7
+212, Dewatering Pump, 5, 11, 24, 1.6
+213, Dewatering Pump, 6, 10, 24, 1.5
+214, Dewatering Pump, 7, 9, 24, 1.4
+215, Dewatering Pump, 8, 8, 24, 1.3
+216, Dewatering Pump, 9, 13, 24, 1.8
+217, Dewatering Pump, 10, 14, 24, 1.9
+218, Dewatering Pump, 11, 15, 24, 2.0
+219, Dewatering Pump, 12, 16, 24, 2.1
+220, Dewatering Pump, 13, 17, 24, 2.2
+221, Air Compressor, 6, 18, 8, 1.6
+222, Air Compressor, 7, 20, 8, 1.8
+223, Air Compressor, 8, 22, 8, 2.0
+224, Air Compressor, 9, 24, 8, 2.2
+225, Air Compressor, 10, 26, 8, 2.4
+226, Air Compressor, 11, 28, 8, 2.6
+227, Air Compressor, 12, 30, 8, 2.8
+228, Air Compressor, 13, 32, 8, 3.0
+229, Air Compressor, 14, 34, 8, 3.2
+230, Air Compressor, 15, 36, 8, 3.4
+231, Vibratory Roller, 4, 25, 8, 1.9
+232, Vibratory Roller, 5, 22, 8, 1.7
+233, Vibratory Roller, 6, 20, 8, 1.6
+234, Vibratory Roller, 7, 18, 8, 1.5
+235, Vibratory Roller, 8, 15, 8, 1.4
+236, Vibratory Roller, 9, 27, 8, 2.0
+237, Vibratory Roller, 10, 30, 8, 2.2
+238, Vibratory Roller, 11, 32, 8, 2.3
+239, Vibratory Roller, 12, 35, 8, 2.5
+240, Vibratory Roller, 13, 38, 8, 2.6
+241, Water Truck, 3, 30, 8, 2.2
+242, Water Truck, 4, 32, 10, 2.4
+243, Water Truck, 5, 35, 8, 2.5
+244, Water Truck, 6, 38, 8, 2.6
+245, Water Truck, 7, 40, 8, 2.8
+246, Water Truck, 8, 42, 8, 3.0
+247, Water Truck, 9, 45, 8, 3.2
+248, Water Truck, 10, 48, 8, 3.5
+249, Water Truck, 11, 50, 8, 3.7
+250, Water Truck, 13, 58, 8, 4.2
+251, Water Truck, 14, 60, 8, 4.5
+252, Water Truck, 15, 62, 8, 4.7
+253, Water Truck, 16, 65, 8, 5.0
+254, Water Truck, 17, 68, 8, 5.2
+255, Water Truck, 18, 70, 8, 5.5
+256, Water Truck, 19, 72, 8, 5.7
+257, Water Truck, 20, 75, 8, 6.0
+258, Water Truck, 21, 78, 8, 6.2
+259, Demolition Hammer, 4, 22, 8, 1.8
+260, Demolition Hammer, 5, 20, 8, 1.6
+261, Demolition Hammer, 6, 25, 8, 2.0
+262, Demolition Hammer, 7, 30, 8, 2.4
+263, Demolition Hammer, 8, 35, 8, 2.8
+264, Demolition Hammer, 9, 40, 8, 3.2
+265, Demolition Hammer, 10, 45, 8, 3.6
+266, Demolition Hammer, 11, 50, 8, 4.0
+267, Demolition Hammer, 12, 55, 8, 4.4
+268, Demolition Hammer, 13, 60, 8, 4.8
+269, Scraper, 3, 28, 8, 2.0
+270, Scraper, 4, 30, 10, 2.2
+271, Scraper, 5, 32, 8, 2.3
+272, Scraper, 6, 35, 12, 2.5
+273, Scraper, 7, 38, 8, 2.6
+274, Scraper, 8, 40, 8, 2.8
+275, Scraper, 9, 42, 8, 3.0
+276, Scraper, 10, 45, 8, 3.2
+277, Scraper, 11, 48, 8, 3.5
+278, Scraper, 12, 50, 8, 3.7
+279, Vacuum Excavator, 3, 20, 8, 1.5
+280, Vacuum Excavator, 4, 22, 8, 1.7
+281, Vacuum Excavator, 5, 25, 8, 1.9
+282, Vacuum Excavator, 6, 28, 10, 2.1
+283, Vacuum Excavator, 7, 30, 8, 2.2
+284, Vacuum Excavator, 8, 32, 8, 2.3
+285, Vacuum Excavator, 9, 35, 8, 2.5
+286, Vacuum Excavator, 10, 38, 8, 2.6
+287, Vacuum Excavator, 11, 40, 8, 2.8
+288, Vacuum Excavator, 12, 42, 8, 3.0
+289, Concrete Breaker, 3, 30, 8, 2.1
+290, Concrete Breaker, 4, 32, 10, 2.3
+291, Concrete Breaker, 5, 35, 8, 2.5
+292, Concrete Breaker, 6, 38, 12, 2.7
+293, Concrete Breaker, 7, 40, 8, 2.8
+294, Concrete Breaker, 8, 42, 8, 3.0
+295, Concrete Breaker, 9, 45, 8, 3.2
+296, Concrete Breaker, 10, 48, 8, 3.5
+297, Concrete Breaker, 11, 50, 8, 3.7
+298, Concrete Breaker, 12, 55, 8, 4.0
+299, Road Roller, 4, 25, 8, 1.9
+300, Road Roller, 5, 22, 8, 1.7
+301, Road Roller, 6, 20, 8, 1.6
+302, Road Roller, 7, 18, 8, 1.5
+303, Road Roller, 8, 15, 8, 1.4
+304, Road Roller, 9, 27, 8, 2.0
+305, Road Roller, 10, 30, 8, 2.2
+306, Road Roller, 11, 32, 8, 2.3
+307, Road Roller, 12, 35, 8, 2.5
+308, Road Roller, 13, 38, 8, 2.6
+309, Power Buggy, 6, 30, 10, 2.8
+310, Power Buggy, 7, 32, 8, 2.9
+311, Power Buggy, 8, 35, 12, 3.1
+312, Power Buggy, 9, 38, 8, 3.3
+313, Power Buggy, 10, 40, 8, 3.5
+314, Power Buggy, 11, 42, 8, 3.6
+315, Power Buggy, 12, 45, 8, 3.8
+316, Power Buggy, 13, 48, 8, 4.0
+317, Power Buggy, 14, 50, 8, 4.2
+318, Power Buggy, 15, 55, 8, 4.5
+319, Truck Mounted Crane, 2, 32, 8, 2.3
+320, Truck Mounted Crane, 3, 30, 10, 2.5
+321, Truck Mounted Crane, 4, 35, 8, 2.7
+322, Truck Mounted Crane, 5, 32, 8, 2.4
+323, Truck Mounted Crane, 6, 30, 12, 2.6
+324, Truck Mounted Crane, 7, 28, 8, 2.2
+325, Truck Mounted Crane, 8, 40, 8, 3.0
+326, Truck Mounted Crane, 9, 45, 8, 3.2
+327, Truck Mounted Crane, 10, 50, 8, 3.5
+328, Truck Mounted Crane, 11, 55, 8, 3.8
+329, Plate Compactor, 4, 20, 8, 1.8
+330, Plate Compactor, 5, 22, 10, 2.0
+331, Plate Compactor, 6, 25, 8, 2.1
+332, Plate Compactor, 7, 28, 12, 2.4
+333, Plate Compactor, 8, 30, 8, 2.3
+334, Plate Compactor, 9, 32, 8, 2.5
+335, Plate Compactor, 10, 35, 8, 2.7
+336, Plate Compactor, 11, 38, 8, 2.8
+337, Plate Compactor, 12, 40, 8, 3.0
+338, Plate Compactor, 13, 42, 8, 3.2
+339, Tamping Rammer, 3, 22, 8, 1.7
+340, Tamping Rammer, 4, 25, 10, 1.9
+341, Tamping Rammer, 5, 28, 8, 2.1
+342, Tamping Rammer, 6, 30, 12, 2.3
+343, Tamping Rammer, 7, 32, 8, 2.2
+344, Tamping Rammer, 8, 35, 8, 2.5
+345, Tamping Rammer, 9, 38, 8, 2.6
+346, Tamping Rammer, 10, 40, 8, 2.8
+347, Tamping Rammer, 11, 42, 8, 3.0
+348, Tamping Rammer, 12, 45, 8, 3.2
+349, Mortar Mixer, 4, 18, 8, 1.6
+350, Mortar Mixer, 5, 20, 10, 1.8
+351, Mortar Mixer, 6, 22, 8, 1.7
+352, Mortar Mixer, 7, 25, 12, 2.0
+353, Mortar Mixer, 8, 28, 8, 1.9
+354, Mortar Mixer, 9, 30, 8, 2.1
+355, Mortar Mixer, 10, 32, 8, 2.3
+356, Mortar Mixer, 11, 35, 8, 2.5
+357, Mortar Mixer, 12, 38, 8, 2.6
+358, Mortar Mixer, 13, 40, 8, 2.8
+359, Screed, 6, 16, 8, 1.5
+360, Screed, 7, 18, 10, 1.7
+361, Screed, 8, 20, 8, 1.6
+362, Screed, 9, 22, 12, 1.9
+363, Screed, 10, 25, 8, 2.0
+364, Screed, 11, 28, 8, 2.2
+365, Screed, 12, 30, 8, 2.3
+366, Screed, 13, 32, 8, 2.5
+367, Screed, 14, 35, 8, 2.7
+368, Screed, 15, 38, 8, 2.9
+369, Jackhammer, 2, 38, 8, 2.4
+370, Jackhammer, 3, 35, 10, 2.6
+371, Jackhammer, 4, 32, 8, 2.3
+372, Jackhammer, 5, 30, 12, 2.5
+373, Jackhammer, 6, 28, 8, 2.2
+374, Jackhammer, 7, 25, 8, 1.9
+375, Jackhammer, 8, 45, 8, 3.0
+376, Jackhammer, 9, 48, 8, 3.3
+377, Jackhammer, 10, 50, 8, 3.5
+378, Jackhammer, 11, 55, 8, 3.8
+379, Jackhammer, 12, 60, 8, 4.0
+380, Concrete Mixer, 3, 18, 8, 1.5
+381, Concrete Mixer, 4, 20, 10, 1.7
+382, Concrete Mixer, 5, 22, 8, 1.6
+383, Concrete Mixer, 6, 25, 12, 2.0
+384, Concrete Mixer, 7, 28, 8, 1.9
+385, Concrete Mixer, 8, 30, 8, 2.1
+386, Concrete Mixer, 9, 32, 8, 2.3
+387, Concrete Mixer, 10, 35, 8, 2.5
+388, Concrete Mixer, 11, 38, 8, 2.6
+389, Concrete Mixer, 12, 40, 8, 2.8
+390, Concrete Cutter, 2, 35, 8, 2.2
+391, Concrete Cutter, 3, 32, 10, 2.4
+392, Concrete Cutter, 4, 30, 8, 2.3
+393, Concrete Cutter, 5, 28, 12, 2.6
+394, Concrete Cutter, 6, 25, 8, 2.2
+395, Concrete Cutter, 7, 22, 8, 2.1
+396, Concrete Cutter, 8, 40, 8, 3.0
+397, Concrete Cutter, 9, 45, 8, 3.2
+398, Concrete Cutter, 10, 50, 8, 3.5
+399, Concrete Cutter, 11, 55, 8, 3.8
+400, Bulldozer, 2, 45, 8, 2.6
+401, Bulldozer, 3, 40, 10, 2.4
+402, Bulldozer, 4, 38, 8, 2.3
+403, Bulldozer, 5, 35, 12, 2.6
+404, Bulldozer, 6, 32, 8, 2.2
+405, Bulldozer, 7, 30, 8, 2.1
+406, Bulldozer, 8, 50, 8, 3.0
+407, Bulldozer, 9, 55, 8, 3.3
+408, Bulldozer, 10, 60, 8, 3.6
+409, Bulldozer, 11, 65, 8, 3.9
+410, Electric Drill, 3, 32, 8, 2.3
+411, Electric Drill, 4, 30, 10, 2.5
+412, Electric Drill, 5, 28, 8, 2.2
+413, Electric Drill, 6, 25, 12, 2.4
+414, Electric Drill, 7, 22, 8, 2.1
+415, Electric Drill, 8, 38, 8, 2.7
+416, Electric Drill, 9, 40, 8, 2.9
+417, Electric Drill, 10, 45, 8, 3.2
+418, Electric Drill, 11, 48, 8, 3.5
+419, Electric Drill, 12, 50, 8, 3.7
+420, Forklift, 3, 25, 8, 1.9
+421, Forklift, 4, 28, 10, 2.1
+422, Forklift, 5, 30, 8, 2.2
+423, Forklift, 6, 32, 8, 2.3
+424, Forklift, 7, 35, 8, 2.5
+425, Forklift, 8, 38, 8, 2.6
+426, Forklift, 9, 40, 8, 2.8
+427, Forklift, 10, 42, 8, 3.0
+428, Forklift, 11, 45, 8, 3.2
+429, Forklift, 12, 48, 8, 3.5
+430, Skid Steer Loader, 3, 30, 8, 2.2
+431, Skid Steer Loader, 4, 32, 10, 2.4
+432, Skid Steer Loader, 5, 35, 8, 2.5
+433, Skid Steer Loader, 6, 38, 8, 2.6
+434, Skid Steer Loader, 7, 40, 8, 2.8
+435, Skid Steer Loader, 8, 42, 8, 3.0
+436, Skid Steer Loader, 9, 45, 8, 3.2
+437, Skid Steer Loader, 10, 48, 8, 3.5
+438, Skid Steer Loader, 11, 50, 8, 3.7
+439, Skid Steer Loader, 12, 55, 8, 4.0
+440, Pneumatic Drill, 3, 38, 8, 2.4
+441, Pneumatic Drill, 4, 35, 10, 2.6
+442, Pneumatic Drill, 5, 32, 8, 2.3
+443, Pneumatic Drill, 6, 30, 12, 2.5
+444, Pneumatic Drill, 7, 28, 8, 2.2
+445, Pneumatic Drill, 8, 45, 8, 3.0
+446, Pneumatic Drill, 9, 48, 8, 3.3
+447, Pneumatic Drill, 10, 50, 8, 3.5
+448, Pneumatic Drill, 11, 55, 8, 3.8
+449, Pneumatic Drill, 13, 65, 8, 4.3
+450, Dump Truck, 2, 50, 8, 3.0
+451, Dump Truck, 3, 45, 10, 2.8
+452, Dump Truck, 4, 42, 8, 2.5
+453, Dump Truck, 5, 40, 12, 2.7
+454, Dump Truck, 6, 38, 8, 2.4
+455, Dump Truck, 7, 35, 8, 2.1
+456, Dump Truck, 8, 60, 8, 3.5
+457, Dump Truck, 9, 65, 8, 3.8
+458, Dump Truck, 10, 70, 8, 4.0
+459, Dump Truck, 11, 75, 8, 4.3
+460, Excavator, 2, 70, 8, 4.0
+461, Excavator, 3, 65, 10, 3.8
+462, Excavator, 4, 60, 8, 3.5
+463, Excavator, 5, 55, 12, 3.7
+464, Excavator, 6, 50, 8, 3.0
+465, Excavator, 7, 45, 8, 2.7
+466, Excavator, 8, 80, 8, 4.5
+467, Excavator, 9, 85, 8, 4.8
+468, Excavator, 10, 90, 8, 5.0
+469, Excavator, 11, 95, 8, 5.3
+470, Bulldozer, 2, 65, 8, 3.8
+471, Bulldozer, 3, 60, 10, 3.5
+472, Bulldozer, 4, 55, 8, 3.2
+473, Bulldozer, 5, 50, 12, 3.4
+474, Bulldozer, 6, 45, 8, 2.7
+475, Bulldozer, 7, 40, 8, 2.4
+476, Bulldozer, 8, 75, 8, 4.3
+477, Bulldozer, 9, 80, 8, 4.5
+478, Bulldozer, 10, 85, 8, 4.8
+479, Bulldozer, 11, 90, 8, 5.0
+480, Concrete Pump, 2, 60, 8, 3.5
+481, Concrete Pump, 3, 55, 10, 3.2
+482, Concrete Pump, 4, 50, 8, 3.0
+483, Concrete Pump, 5, 45, 12, 3.2
+484, Concrete Pump, 6, 40, 8, 2.5
+485, Concrete Pump, 7, 35, 8, 2.2
+486, Concrete Pump, 8, 70, 8, 4.0
+487, Concrete Pump, 9, 75, 8, 4.3
+488, Concrete Pump, 10, 80, 8, 4.5
+489, Concrete Pump, 11, 85, 8, 4.8
+490, Crane, 2, 70, 8, 4.0
+491, Crane, 3, 65, 10, 3.8
+492, Crane, 4, 60, 8, 3.5
+493, Crane, 5, 55, 12, 3.7
+494, Crane, 6, 50, 8, 3.0
+495, Crane, 7, 45, 8, 2.7
+496, Crane, 8, 80, 8, 4.5
+497, Crane, 9, 85, 8, 4.8
+498, Crane, 10, 90, 8, 5.0
+499, Crane, 11, 95, 8, 5.3
+500, Backhoe Loader, 2, 50, 8, 3.0
+501, Backhoe Loader, 3, 45, 10, 2.8
+502, Backhoe Loader, 4, 42, 8, 2.5
+503, Backhoe Loader, 5, 40, 12, 2.7
+504, Backhoe Loader, 6, 38, 8, 2.4
+505, Backhoe Loader, 7, 35, 8, 2.1
+506, Backhoe Loader, 8, 60, 8, 3.5
+507, Backhoe Loader, 9, 65, 8, 3.8
+508, Backhoe Loader, 10, 70, 8, 4.0
+509, Backhoe Loader, 11, 75, 8, 4.3
+510, Dump Truck, 2, 70, 8, 4.0
+511, Dump Truck, 3, 65, 10, 3.8
+512, Dump Truck, 4, 60, 8, 3.5
+513, Dump Truck, 5, 55, 12, 3.7
+514, Dump Truck, 6, 50, 8, 3.0
+515, Dump Truck, 7, 45, 8, 2.7
+516, Dump Truck, 8, 80, 8, 4.5
+517, Dump Truck, 9, 85, 8, 4.8
+518, Dump Truck, 10, 90, 8, 5.0
+519, Dump Truck, 11, 95, 8, 5.3
+520, Grader, 2, 75, 8, 4.3
+521, Grader, 3, 70, 10, 4.0
+522, Grader, 4, 65, 8, 3.8
+523, Grader, 5, 60, 12, 4.0
+524, Grader, 6, 55, 8, 3.3
+525, Grader, 8, 85, 8, 4.8
+526, Grader, 9, 90, 8, 5.0
+527, Grader, 10, 95, 8, 5.3
+528, Grader, 11, 100, 8, 5.6
+529, Roadheader, 2, 60, 8, 3.5
+530, Roadheader, 3, 55, 10, 3.2
+531, Roadheader, 4, 50, 8, 3.0
+532, Roadheader, 5, 45, 12, 3.2
+533, Roadheader, 6, 40, 8, 2.5
+534, Roadheader, 7, 35, 8, 2.2
+535, Roadheader, 8, 70, 8, 4.0
+536, Roadheader, 9, 75, 8, 4.3
+537, Roadheader, 10, 80, 8, 4.5
+538, Roadheader, 11, 85, 8, 4.8
+539, Trencher, 2, 50, 8, 3.0
+540, Trencher, 3, 45, 10, 2.8
+541, Trencher, 4, 42, 8, 2.5
+542, Trencher, 5, 40, 12, 2.7
+543, Trencher, 6, 38, 8, 2.4
+544, Trencher, 7, 35, 8, 2.1
+545, Trencher, 8, 60, 8, 3.5
+546, Trencher, 9, 65, 8, 3.8
+547, Trencher, 10, 70, 8, 4.0
+548, Trencher, 11, 75, 8, 4.3
+549, Scraper, 2, 55, 8, 3.2
+550, Scraper, 3, 50, 10, 3.0
+551, Scraper, 4, 45, 8, 2.7
+552, Scraper, 5, 40, 12, 2.9
+553, Scraper, 6, 35, 8, 2.2
+554, Scraper, 7, 30, 8, 1.9
+555, Scraper, 8, 65, 8, 3.8
+556, Scraper, 9, 70, 8, 4.0
+557, Scraper, 10, 75, 8, 4.3
+558, Scraper, 11, 80, 8, 4.5
+559, Bulldozer, 2, 70, 8, 4.0
+560, Bulldozer, 3, 65, 10, 3.8
+561, Bulldozer, 4, 60, 8, 3.5
+562, Bulldozer, 5, 55, 12, 3.7
+563, Bulldozer, 6, 50, 8, 3.0
+564, Bulldozer, 7, 45, 8, 2.7
+565, Bulldozer, 8, 80, 8, 4.5
+566, Bulldozer, 9, 85, 8, 4.8
+567, Bulldozer, 10, 90, 8, 5.0
+568, Bulldozer, 11, 95, 8, 5.3
+569, Excavator, 2, 70, 8, 4.0
+570, Excavator, 3, 65, 10, 3.8
+571, Excavator, 4, 60, 8, 3.5
+572, Excavator, 5, 55, 12, 3.7
+573, Excavator, 6, 50, 8, 3.0
+574, Excavator, 7, 45, 8, 2.7
+575, Excavator, 8, 80, 8, 4.5
+576, Excavator, 9, 85, 8, 4.8
+577, Excavator, 10, 90, 8, 5.0
+578, Excavator, 11, 95, 8, 5.3
+579, Tower Crane, 2, 60, 8, 3.5
+580, Tower Crane, 3, 55, 10, 3.2
+581, Tower Crane, 4, 50, 8, 3.0
+582, Tower Crane, 5, 45, 12, 3.2
+583, Tower Crane, 6, 40, 8, 2.5
+584, Tower Crane, 7, 35, 8, 2.2
+585, Tower Crane, 8, 70, 8, 4.0
+586, Tower Crane, 9, 75, 8, 4.3
+587, Tower Crane, 10, 80, 8, 4.5
+588, Tower Crane, 11, 85, 8, 4.8
+589, Concrete Pump, 2, 60, 8, 3.5
+590, Concrete Pump, 3, 55, 10, 3.2
+591, Concrete Pump, 4, 50, 8, 3.0
+592, Concrete Pump, 5, 45, 12, 3.2
+593, Concrete Pump, 6, 40, 8, 2.5
+594, Concrete Pump, 7, 35, 8, 2.2
+595, Concrete Pump, 8, 70, 8, 4.0
+596, Concrete Pump, 9, 75, 8, 4.3
+597, Concrete Pump, 10, 80, 8, 4.5
+598, Concrete Pump, 11, 85, 8, 4.8
+599, Crusher, 2, 75, 8, 4.3
+600, Crusher, 3, 70, 10, 4.0
+600, Crusher, 3, 70, 10, 4.0
+601, Crusher, 4, 65, 8, 3.8
+602, Crusher, 5, 60, 12, 4.0
+603, Crusher, 6, 55, 8, 3.3
+604, Crusher, 7, 50, 8, 3.0
+605, Crusher, 8, 85, 8, 4.8
+606, Crusher, 9, 90, 8, 5.0
+607, Crusher, 10, 95, 8, 5.3
+608, Crusher, 11, 100, 8, 5.6
+609, Wheel Loader, 2, 70, 8, 4.0
+610, Wheel Loader, 3, 65, 10, 3.8
+611, Wheel Loader, 4, 60, 8, 3.5
+612, Wheel Loader, 5, 55, 12, 3.7
+613, Wheel Loader, 6, 50, 8, 3.0
+614, Wheel Loader, 7, 45, 8, 2.7
+615, Wheel Loader, 8, 80, 8, 4.5
+616, Wheel Loader, 9, 85, 8, 4.8
+617, Wheel Loader, 10, 90, 8, 5.0
+618, Wheel Loader, 11, 95, 8, 5.3
+619, Mobile Crane, 2, 55, 8, 3.2
+620, Mobile Crane, 3, 50, 10, 3.0
+621, Mobile Crane, 4, 45, 8, 2.7
+622, Mobile Crane, 5, 40, 12, 2.9
+623, Mobile Crane, 6, 35, 8, 2.2
+624, Mobile Crane, 7, 30, 8, 1.9
+625, Mobile Crane, 8, 65, 8, 3.8
+626, Mobile Crane, 9, 70, 8, 4.0
+627, Mobile Crane, 10, 75, 8, 4.3
+628, Mobile Crane, 11, 80, 8, 4.5
+629, Concrete Mixer, 2, 30, 8, 1.8
+630, Concrete Mixer, 3, 28, 10, 1.7
+631, Concrete Mixer, 4, 25, 8, 1.5
+632, Concrete Mixer, 5, 22, 12, 1.7
+633, Concrete Mixer, 6, 20, 8, 1.3
+634, Concrete Mixer, 7, 18, 8, 1.1
+635, Concrete Mixer, 8, 35, 8, 2.1
+636, Concrete Mixer, 9, 38, 8, 2.3
+637, Concrete Mixer, 10, 40, 8, 2.5
+638, Concrete Mixer, 11, 42, 8, 2.6
+639, Compactor, 2, 45, 8, 2.7
+640, Compactor, 3, 42, 10, 2.5
+641, Compactor, 4, 40, 8, 2.4
+642, Compactor, 5, 38, 12, 2.6
+643, Compactor, 6, 35, 8, 2.2
+644, Compactor, 7, 32, 8, 2.1
+645, Compactor, 8, 55, 8, 3.2
+646, Compactor, 9, 60, 8, 3.5
+647, Compactor, 10, 65, 8, 3.7
+648, Compactor, 11, 70, 8, 4.0
+649, Backhoe Loader, 2, 55, 8, 3.2
+650, Backhoe Loader, 3, 50, 10, 3.0
+651, Backhoe Loader, 4, 45, 8, 2.7
+652, Backhoe Loader, 5, 40, 12, 2.9
+653, Backhoe Loader, 6, 35, 8, 2.2
+654, Backhoe Loader, 7, 30, 8, 1.9
+655, Backhoe Loader, 8, 65, 8, 3.8
+656, Backhoe Loader, 9, 70, 8, 4.0
+657, Backhoe Loader, 10, 75, 8, 4.3
+658, Backhoe Loader, 11, 80, 8, 4.5
+659, Pneumatic Drill, 2, 35, 8, 2.2
+660, Pneumatic Drill, 3, 32, 10, 2.4
+661, Pneumatic Drill, 4, 30, 8, 2.3
+662, Pneumatic Drill, 5, 28, 12, 2.5
+663, Pneumatic Drill, 6, 25, 8, 2.0
+664, Pneumatic Drill, 7, 22, 8, 1.9
+665, Pneumatic Drill, 8, 45, 8, 3.0
+666, Pneumatic Drill, 9, 50, 8, 3.3
+667, Pneumatic Drill, 10, 55, 8, 3.5
+668, Pneumatic Drill, 11, 60, 8, 4.0
+669, Excavator, 2, 65, 8, 3.8
+670, Excavator, 3, 60, 10, 3.5
+671, Excavator, 4, 55, 8, 3.2
+672, Excavator, 5, 50, 12, 3.4
+673, Excavator, 6, 45, 8, 2.7
+674, Excavator, 7, 40, 8, 2.4
+675, Excavator, 8, 75, 8, 4.3
+676, Excavator, 9, 80, 8, 4.5
+677, Excavator, 10, 85, 8, 4.8
+678, Excavator, 11, 90, 8, 5.0
+679, Wheel Loader, 2, 70, 8, 4.0
+680, Wheel Loader, 3, 65, 10, 3.8
+681, Wheel Loader, 4, 60, 8, 3.5
+682, Wheel Loader, 5, 55, 12, 3.7
+683, Wheel Loader, 6, 50, 8, 3.0
+684, Wheel Loader, 7, 45, 8, 2.7
+685, Wheel Loader, 8, 80, 8, 4.5
+686, Wheel Loader, 9, 85, 8, 4.8
+687, Wheel Loader, 10, 90, 8, 5.0
+688, Wheel Loader, 11, 95, 8, 5.3
+689, Grader, 2, 75, 8, 4.3
+690, Grader, 3, 70, 10, 4.0
+691, Grader, 4, 65, 8, 3.8
+692, Grader, 5, 60, 12, 4.0
+693, Grader, 6, 55, 8, 3.3
+694, Grader, 7, 50, 8, 3.0
+695, Grader, 8, 85, 8, 4.8
+696, Grader, 9, 90, 8, 5.0
+697, Grader, 10, 95, 8, 5.3
+698, Grader, 11, 100, 8, 5.6
+699, Dump Truck, 2, 50, 8, 3.0
+700, Dump Truck, 3, 45, 10, 2.8
+701, Dump Truck, 4, 42, 8, 2.5
+702, Dump Truck, 5, 40, 12, 2.7
+703, Dump Truck, 6, 38, 8, 2.4
+703, Dump Truck, 6, 38, 8, 2.4
+704, Dump Truck, 7, 35, 8, 2.1
+705, Dump Truck, 8, 60, 8, 3.5
+706, Dump Truck, 9, 65, 8, 3.8
+707, Dump Truck, 10, 70, 8, 4.0
+708, Dump Truck, 11, 75, 8, 4.3
+709, Bulldozer, 2, 65, 8, 3.8
+710, Bulldozer, 3, 60, 10, 3.5
+711, Bulldozer, 4, 55, 8, 3.2
+712, Bulldozer, 5, 50, 12, 3.4
+713, Bulldozer, 6, 45, 8, 2.7
+714, Bulldozer, 7, 40, 8, 2.4
+715, Bulldozer, 8, 75, 8, 4.3
+716, Bulldozer, 9, 80, 8, 4.5
+717, Bulldozer, 10, 85, 8, 4.8
+718, Bulldozer, 11, 90, 8, 5.0
+719, Concrete Pump, 2, 60, 8, 3.5
+720, Concrete Pump, 3, 55, 10, 3.2
+721, Concrete Pump, 4, 50, 8, 3.0
+722, Concrete Pump, 5, 45, 12, 3.2
+723, Concrete Pump, 6, 40, 8, 2.5
+724, Concrete Pump, 7, 35, 8, 2.2
+725, Concrete Pump, 8, 70, 8, 4.0
+726, Concrete Pump, 9, 75, 8, 4.3
+727, Concrete Pump, 10, 80, 8, 4.5
+728, Concrete Pump, 11, 85, 8, 4.8
+729, Crane, 2, 70, 8, 4.0
+730, Crane, 3, 65, 10, 3.8
+731, Crane, 4, 60, 8, 3.5
+732, Crane, 5, 55, 12, 3.7
+733, Crane, 6, 50, 8, 3.0
+734, Crane, 7, 45, 8, 2.7
+735, Crane, 8, 80, 8, 4.5
+736, Crane, 9, 85, 8, 4.8
+737, Crane, 10, 90, 8, 5.0
+738, Crane, 11, 95, 8, 5.3
+739, Backhoe Loader, 2, 50, 8, 3.0
+740, Backhoe Loader, 3, 45, 10, 2.8
+741, Backhoe Loader, 4, 42, 8, 2.5
+742, Backhoe Loader, 5, 40, 12, 2.7
+743, Backhoe Loader, 6, 38, 8, 2.4
+744, Backhoe Loader, 7, 35, 8, 2.1
+745, Backhoe Loader, 8, 60, 8, 3.5
+746, Backhoe Loader, 9, 65, 8, 3.8
+747, Backhoe Loader, 10, 70, 8, 4.0
+748, Backhoe Loader, 11, 75, 8, 4.3
+749, Dump Truck, 2, 70, 8, 4.0
+750, Dump Truck, 3, 65, 10, 3.8
+751, Dump Truck, 4, 60, 8, 3.5
+752, Dump Truck, 5, 55, 12, 3.7
+753, Dump Truck, 6, 50, 8, 3.0
+754, Dump Truck, 7, 45, 8, 2.7
+755, Dump Truck, 8, 80, 8, 4.5
+756, Dump Truck, 9, 85, 8, 4.8
+757, Dump Truck, 10, 90, 8, 5.0
+758, Dump Truck, 11, 95, 8, 5.3
+759, Grader, 2, 75, 8, 4.3
+760, Grader, 3, 70, 10, 4.0
+761, Grader, 4, 65, 8, 3.8
+762, Grader, 5, 60, 12, 4.0
+763, Grader, 6, 55, 8, 3.3
+764, Grader, 7, 50, 8, 3.0
+765, Grader, 8, 85, 8, 4.8
+766, Grader, 9, 90, 8, 5.0
+767, Grader, 10, 95, 8, 5.3
+768, Grader, 11, 100, 8, 5.6
+769, Roadheader, 2, 60, 8, 3.5
+770, Roadheader, 3, 55, 10, 3.2
+771, Roadheader, 4, 50, 8, 3.0
+772, Roadheader, 5, 45, 12, 3.2
+773, Roadheader, 6, 40, 8, 2.5
+774, Roadheader, 7, 35, 8, 2.2
+775, Roadheader, 8, 70, 8, 4.0
+776, Roadheader, 9, 75, 8, 4.3
+777, Roadheader, 10, 80, 8, 4.5
+778, Roadheader, 11, 85, 8, 4.8
+779, Trencher, 2, 50, 8, 3.0
+780, Trencher, 3, 45, 10, 2.8
+781, Trencher, 4, 42, 8, 2.5
+782, Trencher, 5, 40, 12, 2.7
+783, Trencher, 6, 38, 8, 2.4
+784, Trencher, 7, 35, 8, 2.1
+785, Trencher, 8, 60, 8, 3.5
+786, Trencher, 9, 65, 8, 3.8
+787, Trencher, 10, 70, 8, 4.0
+788, Trencher, 11, 75, 8, 4.3
+789, Scraper, 2, 55, 8, 3.2
+790, Scraper, 3, 50, 10, 3.0
+791, Scraper, 4, 45, 8, 2.7
+792, Scraper, 5, 40, 12, 2.9
+793, Scraper, 6, 35, 8, 2.2
+794, Scraper, 7, 30, 8, 1.9
+795, Scraper, 8, 65, 8, 3.8
+796, Scraper, 9, 70, 8, 4.0
+797, Scraper, 10, 75, 8, 4.3
+798, Scraper, 11, 80, 8, 4.5
+799, Bulldozer, 2, 70, 8, 4.0
+800, Bulldozer, 3, 65, 10, 3.8
+801, Bulldozer, 4, 60, 8, 3.5
+802, Bulldozer, 5, 55, 12, 3.7
+803, Bulldozer, 6, 50, 8, 3.0
+804, Bulldozer, 7, 45, 8, 2.7
+805, Bulldozer, 8, 80, 8, 4.5
+806, Bulldozer, 9, 85, 8, 4.8
+807, Bulldozer, 10, 90, 8, 5.0
+808, Bulldozer, 11, 95, 8, 5.3
+809, Wheel Loader, 2, 65, 8, 3.8
+810, Wheel Loader, 3, 60, 10, 3.5
+811, Wheel Loader, 4, 55, 8, 3.2
+812, Wheel Loader, 5, 50, 12, 3.4
+813, Wheel Loader, 6, 45, 8, 2.7
+814, Wheel Loader, 7, 40, 8, 2.4
+815, Wheel Loader, 8, 75, 8, 4.3
+816, Wheel Loader, 9, 80, 8, 4.5
+817, Wheel Loader, 10, 85, 8, 4.8
+818, Wheel Loader, 11, 90, 8, 5.0
+819, Dump Truck, 2, 60, 8, 3.5
+820, Dump Truck, 3, 55, 10, 3.2
+821, Dump Truck, 4, 50, 8, 3.0
+822, Dump Truck, 5, 45, 12, 3.2
+823, Dump Truck, 6, 40, 8, 2.5
+824, Dump Truck, 7, 35, 8, 2.2
+825, Dump Truck, 8, 70, 8, 4.0
+826, Dump Truck, 9, 75, 8, 4.3
+827, Dump Truck, 10, 80, 8, 4.5
+828, Dump Truck, 11, 85, 8, 4.8
+829, Excavator, 2, 70, 8, 4.0
+830, Excavator, 3, 65, 10, 3.8
+831, Excavator, 4, 60, 8, 3.5
+832, Excavator, 5, 55, 12, 3.7
+833, Excavator, 6, 50, 8, 3.0
+834, Excavator, 7, 45, 8, 2.7
+835, Excavator, 8, 80, 8, 4.5
+836, Excavator, 9, 85, 8, 4.8
+837, Excavator, 10, 90, 8, 5.0
+838, Excavator, 11, 95, 8, 5.3
+839, Concrete Mixer, 2, 55, 8, 3.2
+840, Concrete Mixer, 3, 50, 10, 3.0
+841, Concrete Mixer, 4, 45, 8, 2.7
+842, Concrete Mixer, 5, 40, 12, 2.9
+843, Concrete Mixer, 6, 35, 8, 2.2
+844, Concrete Mixer, 7, 30, 8, 1.9
+845, Concrete Mixer, 8, 65, 8, 3.8
+846, Concrete Mixer, 9, 70, 8, 4.0
+847, Concrete Mixer, 10, 75, 8, 4.3
+848, Concrete Mixer, 11, 80, 8, 4.5
+849, Compactor, 2, 70, 8, 4.0
+850, Compactor, 3, 65, 10, 3.8
+851, Compactor, 4, 60, 8, 3.5
+852, Compactor, 5, 55, 12, 3.7
+853, Compactor, 6, 50, 8, 3.0
+854, Compactor, 7, 45, 8, 2.7
+855, Compactor, 8, 80, 8, 4.5
+856, Compactor, 9, 85, 8, 4.8
+857, Compactor, 10, 90, 8, 5.0
+858, Compactor, 11, 95, 8, 5.3
+859, Mobile Crane, 2, 55, 8, 3.2
+860, Mobile Crane, 3, 50, 10, 3.0
+861, Mobile Crane, 4, 45, 8, 2.7
+862, Mobile Crane, 5, 40, 12, 2.9
+863, Mobile Crane, 6, 35, 8, 2.2
+864, Mobile Crane, 7, 30, 8, 1.9
+865, Mobile Crane, 8, 65, 8, 3.8
+866, Mobile Crane, 9, 70, 8, 4.0
+867, Mobile Crane, 10, 75, 8, 4.3
+868, Mobile Crane, 11, 80, 8, 4.5
+869, Pneumatic Drill, 2, 35, 8, 2.2
+870, Pneumatic Drill, 3, 32, 10, 2.4
+871, Pneumatic Drill, 4, 30, 8, 2.3
+872, Pneumatic Drill, 5, 28, 12, 2.5
+873, Pneumatic Drill, 6, 25, 8, 2.0
+874, Pneumatic Drill, 7, 22, 8, 1.9
+875, Pneumatic Drill, 8, 45, 8, 3.0
+876, Pneumatic Drill, 9, 50, 8, 3.3
+877, Pneumatic Drill, 10, 55, 8, 3.5
+878, Pneumatic Drill, 11, 60, 8, 4.0
+879, Grader, 2, 75, 8, 4.3
+880, Grader, 3, 70, 10, 4.0
+881, Grader, 4, 65, 8, 3.8
+882, Grader, 5, 60, 12, 4.0
+883, Grader, 6, 55, 8, 3.3
+884, Grader, 7, 50, 8, 3.0
+885, Grader, 8, 85, 8, 4.8
+886, Grader, 9, 90, 8, 5.0
+887, Grader, 10, 95, 8, 5.3
+888, Grader, 11, 100, 8, 5.6
+889, Wheel Loader, 2, 50, 8, 3.0
+890, Wheel Loader, 3, 45, 10, 2.8
+891, Wheel Loader, 4, 42, 8, 2.5
+892, Wheel Loader, 5, 40, 12, 2.7
+893, Wheel Loader, 6, 38, 8, 2.4
+894, Wheel Loader, 7, 35, 8, 2.1
+895, Wheel Loader, 8, 60, 8, 3.5
+896, Wheel Loader, 9, 65, 8, 3.8
+897, Wheel Loader, 10, 70, 8, 4.0
+898, Wheel Loader, 11, 75, 8, 4.3
+899, Trencher, 2, 50, 8, 3.0
+900, Trencher, 3, 45, 10, 2.8
+901, Trencher, 4, 42, 8, 2.5
+902, Trencher, 5, 40, 12, 2.7
+903, Trencher, 6, 38, 8, 2.4
+904, Trencher, 7, 35, 8, 2.1
+905, Trencher, 8, 60, 8, 3.5
+906, Trencher, 9, 65, 8, 3.8
+907, Trencher, 10, 70, 8, 4.0
+908, Trencher, 11, 75, 8, 4.3
+909, Scraper, 2, 55, 8, 3.2
+910, Scraper, 3, 50, 10, 3.0
+911, Scraper, 4, 45, 8, 2.7
+912, Scraper, 5, 40, 12, 2.9
+913, Scraper, 6, 35, 8, 2.2
+914, Scraper, 7, 30, 8, 1.9
+915, Scraper, 8, 65, 8, 3.8
+916, Scraper, 9, 70, 8, 4.0
+917, Scraper, 10, 75, 8, 4.3
+918, Scraper, 11, 80, 8, 4.5
+919, Bulldozer, 2, 70, 8, 4.0
+920, Bulldozer, 3, 65, 10, 3.8
+921, Bulldozer, 4, 60, 8, 3.5
+922, Bulldozer, 5, 55, 12, 3.7
+923, Bulldozer, 6, 50, 8, 3.0
+924, Bulldozer, 7, 45, 8, 2.7
+925, Bulldozer, 8, 80, 8, 4.5
+926, Bulldozer, 9, 85, 8, 4.8
+927, Bulldozer, 10, 90, 8, 5.0
+928, Bulldozer, 11, 95, 8, 5.3
+929, Excavator, 2, 65, 8, 3.8
+930, Excavator, 3, 60, 10, 3.5
+931, Excavator, 4, 55, 8, 3.2
+932, Excavator, 5, 50, 12, 3.4
+933, Excavator, 6, 45, 8, 2.7
+934, Excavator, 7, 40, 8, 2.4
+935, Excavator, 8, 75, 8, 4.3
+936, Excavator, 9, 80, 8, 4.5
+937, Excavator, 10, 85, 8, 4.8
+938, Excavator, 11, 90, 8, 5.0
+939, Dump Truck, 2, 60, 8, 3.5
+940, Dump Truck, 3, 55, 10, 3.2
+941, Dump Truck, 4, 50, 8, 3.0
+942, Dump Truck, 5, 45, 12, 3.2
+943, Dump Truck, 6, 40, 8, 2.5
+944, Dump Truck, 7, 35, 8, 2.2
+945, Dump Truck, 8, 70, 8, 4.0
+946, Dump Truck, 9, 75, 8, 4.3
+947, Dump Truck, 10, 80, 8, 4.5
+948, Dump Truck, 11, 85, 8, 4.8
+949, Concrete Pump, 2, 55, 8, 3.2
+950, Concrete Pump, 3, 50, 10, 3.0
+951, Concrete Pump, 4, 45, 8, 2.7
+952, Concrete Pump, 5, 40, 12, 2.9
+953, Concrete Pump, 6, 35, 8, 2.2
+954, Concrete Pump, 7, 30, 8, 1.9
+955, Concrete Pump, 8, 65, 8, 3.8
+956, Concrete Pump, 9, 70, 8, 4.0
+957, Concrete Pump, 10, 75, 8, 4.3
+958, Concrete Pump, 11, 80, 8, 4.5
+959, Crane, 2, 75, 8, 4.3
+960, Crane, 3, 70, 10, 4.0
+961, Crane, 4, 65, 8, 3.8
+962, Crane, 5, 60, 12, 4.0
+963, Crane, 6, 55, 8, 3.3
+964, Crane, 7, 50, 8, 3.0
+965, Crane, 8, 85, 8, 4.8
+966, Crane, 9, 90, 8, 5.0
+967, Crane, 10, 95, 8, 5.3
+968, Crane, 11, 100, 8, 5.6
+969, Wheel Loader, 2, 50, 8, 3.0
+970, Wheel Loader, 3, 45, 10, 2.8
+971, Wheel Loader, 4, 42, 8, 2.5
+972, Wheel Loader, 5, 40, 12, 2.7
+973, Wheel Loader, 6, 38, 8, 2.4
+974, Wheel Loader, 7, 35, 8, 2.1
+975, Wheel Loader, 8, 60, 8, 3.5
+976, Wheel Loader, 9, 65, 8, 3.8
+977, Wheel Loader, 10, 70, 8, 4.0
+978, Wheel Loader, 11, 75, 8, 4.3
+979, Backhoe Loader, 2, 70, 8, 4.0
+980, Backhoe Loader, 3, 65, 10, 3.8
+981, Backhoe Loader, 4, 60, 8, 3.5
+982, Backhoe Loader, 5, 55, 12, 3.7
+983, Backhoe Loader, 6, 50, 8, 3.0
+984, Backhoe Loader, 7, 45, 8, 2.7
+985, Backhoe Loader, 8, 80, 8, 4.5
+986, Backhoe Loader, 9, 85, 8, 4.8
+987, Backhoe Loader, 10, 90, 8, 5.0
+988, Backhoe Loader, 11, 95, 8, 5.3
+989, Roadheader, 2, 55, 8, 3.2
+990, Roadheader, 3, 50, 10, 3.0
+991, Roadheader, 4, 45, 8, 2.7
+992, Roadheader, 5, 40, 12, 2.9
+993, Roadheader, 6, 35, 8, 2.2
+994, Roadheader, 7, 30, 8, 1.9
+995, Roadheader, 8, 65, 8, 3.8
+996, Roadheader, 9, 70, 8, 4.0
+997, Roadheader, 10, 75, 8, 4.3
+998, Roadheader, 11, 80, 8, 4.5
+999, Concrete Mixer, 2, 50, 8, 3.0
+1000, Concrete Mixer, 3, 45, 10, 2.8

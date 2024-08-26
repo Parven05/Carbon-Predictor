@@ -1,0 +1,7 @@
+Provide the following information to estimate emissions:
+            
+1. Select material type.
+2. Enter mass used (kg).
+3. Enter distance traveled (km).
+4. Fuel consumption rate is automatically assigned based on equipment selected (litres/h).
+5. Carbon emission factor is automatically assigned based on equipment selected (kgCO2/kg).
