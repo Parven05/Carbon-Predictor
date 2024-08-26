@@ -1,7 +1,6 @@
 ![Status](https://badgen.net/badge/Status/Development/red?icon=github)
 ![Source](https://badgen.net/badge/Source/Research/blue)
 ![License](https://badgen.net/badge/license/MIT/green)
-![Tool](https://badgen.net/badge/Tool/Orange3/orange?icon)
 
 # _Disclaimer_
 
