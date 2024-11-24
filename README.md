@@ -25,6 +25,11 @@ You must have Python installed and the following libraries to view the project:
 
 ```
 
+# Installation Instructions
+1. Navigate to the [latest release page](https://github.com/Parven05/Carbon-Predictor/releases/tag/v1) and download the **carbon-predictor.zip** file.  
+2. Extract the zip file using a tool like WinRAR or 7-Zip.  
+3. Open the extracted folder and double-click the executable file named **Carbon Predictor** to launch the program.
+   
 # Build
 [xgboost.dll](https://drive.google.com/drive/folders/1ASRLZbcUZqqbVnTVvmMzKTux363OtleJ?usp=sharing)
 
