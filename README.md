@@ -2,10 +2,11 @@
 ![License](https://badgen.net/badge/license/MIT/green)
 
 # _Disclaimer_
-
 This project might not have precise data on model performance and accuracy, but it can give a general overview of machine learning models using Orange and some Python libraries.
 
 # Carbon Emission Predictor (CO₂)
+
+![carbon](https://github.com/user-attachments/assets/8c00db18-4b69-41ba-a368-6cefe175a758)
 
 Carbon emission calculator using Machine learning. This involves testing with a variety of models including Artificial Neural Networks (ANN), K-Nearest Neighbors (KNN), Linear Regression, Support Vector Machines (SVM), Random Forest, Gradient Boosting, AdaBoost, and Decision Trees.
 
